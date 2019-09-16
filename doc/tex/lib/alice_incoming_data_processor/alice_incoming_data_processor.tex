@@ -1,0 +1,57 @@
+\clearpage
+\graphicspath{{./lib/alice_incoming_data_processor/figures/}}
+\section{Alice Incoming Data Processor}
+
+\begin{tcolorbox}	
+	\begin{tabular}{p{2.75cm} p{0.2cm} p{10.5cm}} 	
+        \textbf{Header Files}    &:& alice\_incoming\_data\_processor\_*.h \\
+		\textbf{Source Files}    &:& alice\_incoming\_data\_processor\_*.cpp \\
+        \textbf{Version}         &:& 20190410 (Andoni Santos)
+	\end{tabular}
+\end{tcolorbox}
+
+\maketitle
+This block processes and directs the data received in the AliceQKD block.
+
+\subsection*{Input Signals}
+
+\begin{itemize}
+	\item[0] - Binary signal with Alice's key, to be transmitted to Bob.
+	\item[1] - Binary signal with Alice's basis, that will be used to encode the key.
+\end{itemize}
+
+\subsection*{Output Signals}
+
+\begin{itemize}
+	\item[0] - Binary signal with Alice's key, to be transmitted to Bob.
+	\item[1] - Binary signal with Alice's basis, that will be used to encode the key.
+	\item[2] - Binary signal with Alice's key, to be transmitted to Bob.
+	\item[3] - Binary signal with Alice's basis, that will be used to encode the key. 
+\end{itemize}
+
+% \subsection*{Signals}
+
+% \begin{table}[h]
+% 	\centering
+% 	\begin{tabular}{|c|l|}
+% 		\hline
+% 		\textbf{Number of Input Signals} & 2 \\ \hline
+%         \textbf{Type of Input Signals} & Binary, Binary,\\\hline
+%     	\textbf{Number of Output Signals} & 4 \ \\ \hline
+%         \textbf{Type of Output Signals} & Binary, Binary, Binary, Binary \\ \hline
+% 	\end{tabular}
+% 	\caption{Alice Incoming Data Processor signals}
+% 	\label{table:bin_sour_signals}
+% \end{table}
+
+\subsection*{Input Parameters}
+
+\subsection*{Methods}
+
+\subsection*{Functional description}
+This block receives and directs the data and basis signals received by Alice. It
+creates duplicate versions of the signals, so that they can be sent both to the
+processing part of Alice QKD and output to the Quantum Channel. In addition, it
+makes sure that these two signals are always in sync.
+
+\subsection*{Suggestions for future improvement}

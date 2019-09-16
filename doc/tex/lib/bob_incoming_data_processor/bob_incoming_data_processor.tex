@@ -1,0 +1,53 @@
+\clearpage
+\graphicspath{{./lib/bob_incoming_data_processor/figures/}}
+\section{Bob Incoming Data Processor}
+
+\begin{tcolorbox}	
+	\begin{tabular}{p{2.75cm} p{0.2cm} p{10.5cm}} 	
+        \textbf{Header Files}    &:& bob\_incoming\_data\_processor\_*.h \\
+		\textbf{Source Files}    &:& bob\_incoming\_data\_processor\_*.cpp \\
+        \textbf{Version}         &:& 20190410 (Andoni Santos)
+	\end{tabular}
+\end{tcolorbox}
+
+\maketitle
+This block processes and directs the data received in the BobQKD block.
+
+\subsection*{Input Signals}
+
+\begin{itemize}
+	\item[0] - TimeContinuousAmplitudeDiscreteReal signal with received key, to be transmitted to Bob.
+	\item[1] - Binary signal with Bob's basis, that will be used to measure the qubits.
+\end{itemize}
+
+\subsection*{Output Signals}
+
+\begin{itemize}
+	\item[0] - TimeContinuousAmplitudeDiscreteReal signal with received key, to be transmitted to Bob.
+	\item[1] - Binary signal with Bob's basis, that will be used to measure the qubits.
+\end{itemize}
+
+% \subsection*{Signals}
+
+% \begin{table}[h]
+% 	\centering
+% 	\begin{tabular}{|c|l|}
+% 		\hline
+% 		\textbf{Number of Input Signals} & 2 \\ \hline
+%         \textbf{Type of Input Signals} & TimeContinuousAmplitudeDiscreteReal, Binary,\\\hline
+%     	\textbf{Number of Output Signals} & 2 \ \\ \hline
+%         \textbf{Type of Output Signals} & TimeContinuousAmplitudeDiscreteReal, Binary \\ \hline
+% 	\end{tabular}
+% 	\caption{Bob Incoming Data Processor signals}
+% 	\label{table:bin_sour_signals}
+% \end{table}
+
+\subsection*{Input Parameters}
+
+\subsection*{Methods}
+
+\subsection*{Functional description}
+This block receives and directs the data and basis signals received by Bob. It
+makes sure that these two signals are always in sync and controls the flow of data.
+
+\subsection*{Suggestions for future improvement}

@@ -1,1 +1,15 @@
+short term goal: implement a classical SMC framework
+			- language C++
+			- should be plataform independent (windows / linux)
+			- datamining case study (simple)
+
+
+medium term goal: implement a SMC framework assisted by quantum technology
+
+
 16/09/2019
+
+	- choose and install library
+
+
+

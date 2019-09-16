@@ -1,0 +1,261 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Case Studies}{4}{chapter.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Secure Multi-Party Computation}{5}{section.1.1}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{\numberline {1.1.1}Problem definition}{5}{subsection.1.1.1}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{\numberline {1.1.2}Secure Two-Party Computation}{6}{subsection.1.1.2}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Example of a two-party computation with a single output}{7}{section*.5}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{\numberline {1.1.3}ANP - Problem definition}{11}{subsection.1.1.3}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{\numberline {1.1.4}ANP - Secure Two-Party Computation}{11}{subsection.1.1.4}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Lets consider the simplest possible circuit - a NAND gate}{13}{section*.18}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{\numberline {1.1.5}TinyGarble}{16}{subsection.1.1.5}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Installation}{16}{section*.24}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Usage}{18}{section*.25}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Using VHDL}{22}{section*.30}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Programming}{23}{section*.31}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{File Architecture}{23}{section*.32}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Keys}{23}{section*.33}% 
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Moda function}{24}{section*.35}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Bibliography}{28}{section*.38}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Library}{29}{chapter.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}ADC}{30}{section.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Add}{33}{section.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Arithmetic Encoder}{34}{section.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Arithmetic Decoder}{36}{section.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Alice QKD}{38}{section.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}Alice QKD}{40}{section.2.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.7}AliceQuantumTx}{46}{section.2.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.8}Ascii Source}{50}{section.2.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.9}Ascii To Binary}{52}{section.2.9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.10}Balanced Beam Splitter}{54}{section.2.10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.11}Bit Error Rate}{55}{section.2.11}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Bibliography}{61}{section*.147}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.12}Binary Source}{62}{section.2.12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.13}Binary To Ascii}{66}{section.2.13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.14}Bob QKD}{68}{section.2.14}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.15}BobQuantumRx}{69}{section.2.15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.16}Bit Decider}{72}{section.2.16}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.17}Clock}{73}{section.2.17}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.18}Clock\_20171219}{75}{section.2.18}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.19}Complex To Real}{78}{section.2.19}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.20}Coupler 2 by 2}{80}{section.2.20}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.21}Carrier Phase Compensation}{81}{section.2.21}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Viterbi-Viterbi Algorithm}{82}{section*.245}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Blind Phase Search Algorithm}{83}{section*.247}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.22}Decision Circuit}{85}{section.2.22}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.23}Decoder}{87}{section.2.23}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.24}Discrete To Continuous Time}{89}{section.2.24}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.25}DownSampling}{91}{section.2.25}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.26}DSP}{93}{section.2.26}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.27}EDFA}{95}{section.2.27}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.28}Electrical Signal Generator}{98}{section.2.28}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.28.1}ContinuousWave}{98}{subsection.2.28.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.29}Entropy Estimator}{100}{section.2.29}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.30}Entropy Estimator}{101}{section.2.30}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{101}{section*.345}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{101}{section*.346}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{101}{section*.348}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{101}{section*.349}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{101}{section*.352}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{101}{section*.353}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.31}Fork}{103}{section.2.31}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.32}Gaussian Source}{104}{section.2.32}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.33}Hamming Decoder}{106}{section.2.33}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.34}Hamming Encoder}{107}{section.2.34}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.35}MQAM Receiver}{108}{section.2.35}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Warning:}{108}{section*.382}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.36}Huffman Decoder}{112}{section.2.36}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.37}Huffman Encoder}{113}{section.2.37}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.38}Ideal Amplifier}{114}{section.2.38}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.39}IQ Modulator}{116}{section.2.39}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Bibliography}{121}{figure.caption.442}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.40}IIR Filter}{121}{section.2.40}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Bibliography}{122}{section*.450}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.41}IP Tunnel MS Windows}{122}{section.2.41}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.42}Local Oscillator}{126}{section.2.42}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.43}Local Oscillator}{128}{section.2.43}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.44}Mutual Information Estimator}{131}{section.2.44}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Bibliography}{134}{section*.483}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.45}MQAM Mapper}{135}{section.2.45}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.46}M-QAM Receiver}{138}{section.2.46}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.47}MQAM Transmitter}{145}{section.2.47}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.48}Netxpto}{155}{section.2.48}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.48.1} Version 20180118}{155}{subsection.2.48.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.48.2} Version 20180418}{155}{subsection.2.48.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.49}Alice QKD}{156}{section.2.49}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.50}Polarizer}{158}{section.2.50}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.51}Probability Estimator}{159}{section.2.51}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.52}Quantum Channel Emulator DV}{162}{section.2.52}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.53}Bob QKD}{166}{section.2.53}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.54}Eve QKD}{167}{section.2.54}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.55}Rotator Linear Polarizer}{168}{section.2.55}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.56}MS Windows IP Tunnel}{170}{section.2.56}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.57}Mutual Information Estimator}{172}{section.2.57}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Bibliography}{175}{section*.609}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.58}Optical Switch}{176}{section.2.58}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.59}Optical Hybrid}{177}{section.2.59}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.60}Photodiode pair}{179}{section.2.60}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.61}Photoelectron Generator}{182}{section.2.61}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Bibliography}{187}{section*.665}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.62}Power Spectral Density Estimator}{188}{section.2.62}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Bibliography}{194}{Item.35}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.63}Pulse Shaper}{194}{section.2.63}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.64}Quantizer}{196}{section.2.64}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.65}Resample}{199}{section.2.65}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.66}SNR Estimator}{202}{section.2.66}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Bibliography}{207}{section*.725}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.67}Sampler}{207}{section.2.67}% 
+\defcounter {refsection}{10}\relax 
+\contentsline {section}{\numberline {2.68}SNR of the Photoelectron Generator}{209}{section.2.68}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Bibliography}{214}{section*.756}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.69}Sink}{215}{section.2.69}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.70}SNR Estimator}{217}{section.2.70}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Bibliography}{222}{section*.771}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.71}Single Photon Receiver}{222}{section.2.71}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.72}SOP Modulator}{226}{section.2.72}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Bibliography}{230}{section*.797}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.73}Source Code Efficiency}{230}{section.2.73}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.74}White Noise}{231}{section.2.74}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.75}Ideal Amplifier}{234}{section.2.75}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.76}Phase Mismatch Compensation}{236}{section.2.76}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Bibliography}{239}{table.caption.836}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.77}Frequency Mismatch Compensation}{239}{section.2.77}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Bibliography}{242}{section*.847}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.78}Cloner}{242}{section.2.78}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Bibliography}{243}{section*.853}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.79}Error Vector Magnitude}{243}{section.2.79}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Bibliography}{245}{figure.caption.861}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.80}Load Ascii}{245}{section.2.80}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.81}Load Signal}{247}{section.2.81}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.82}Matched Filter}{249}{section.2.82}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.83}Timing Deskew}{250}{section.2.83}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.84}DC component removal}{252}{section.2.84}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.85}Orthonormalization}{254}{section.2.85}% 

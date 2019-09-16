@@ -1,0 +1,113 @@
+\BOOKMARK [0][-]{chapter.1}{Case Studies}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Secure Multi-Party Computation}{chapter.1}% 2
+\BOOKMARK [2][-]{subsection.1.1.1}{Problem definition}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.2}{Secure Two-Party Computation}{section.1.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.3}{ANP - Problem definition}{section.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.1.4}{ANP - Secure Two-Party Computation}{section.1.1}% 6
+\BOOKMARK [2][-]{subsection.1.1.5}{TinyGarble}{section.1.1}% 7
+\BOOKMARK [2][-]{section*.38}{Bibliography}{section.1.1}% 8
+\BOOKMARK [0][-]{chapter.2}{Library}{}% 9
+\BOOKMARK [1][-]{section.2.1}{ADC}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.2}{Add}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.3}{Arithmetic Encoder}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.4}{Arithmetic Decoder}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.5}{Alice QKD}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.6}{Alice QKD}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.7}{AliceQuantumTx}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.8}{Ascii Source}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.9}{Ascii To Binary}{chapter.2}% 18
+\BOOKMARK [1][-]{section.2.10}{Balanced Beam Splitter}{chapter.2}% 19
+\BOOKMARK [1][-]{section.2.11}{Bit Error Rate}{chapter.2}% 20
+\BOOKMARK [2][-]{section*.147}{Bibliography}{section.2.11}% 21
+\BOOKMARK [1][-]{section.2.12}{Binary Source}{chapter.2}% 22
+\BOOKMARK [1][-]{section.2.13}{Binary To Ascii}{chapter.2}% 23
+\BOOKMARK [1][-]{section.2.14}{Bob QKD}{chapter.2}% 24
+\BOOKMARK [1][-]{section.2.15}{BobQuantumRx}{chapter.2}% 25
+\BOOKMARK [1][-]{section.2.16}{Bit Decider}{chapter.2}% 26
+\BOOKMARK [1][-]{section.2.17}{Clock}{chapter.2}% 27
+\BOOKMARK [1][-]{section.2.18}{Clock\13720171219}{chapter.2}% 28
+\BOOKMARK [1][-]{section.2.19}{Complex To Real}{chapter.2}% 29
+\BOOKMARK [1][-]{section.2.20}{Coupler 2 by 2}{chapter.2}% 30
+\BOOKMARK [1][-]{section.2.21}{Carrier Phase Compensation}{chapter.2}% 31
+\BOOKMARK [1][-]{section.2.22}{Decision Circuit}{chapter.2}% 32
+\BOOKMARK [1][-]{section.2.23}{Decoder}{chapter.2}% 33
+\BOOKMARK [1][-]{section.2.24}{Discrete To Continuous Time}{chapter.2}% 34
+\BOOKMARK [1][-]{section.2.25}{DownSampling}{chapter.2}% 35
+\BOOKMARK [1][-]{section.2.26}{DSP}{chapter.2}% 36
+\BOOKMARK [1][-]{section.2.27}{EDFA}{chapter.2}% 37
+\BOOKMARK [1][-]{section.2.28}{Electrical Signal Generator}{chapter.2}% 38
+\BOOKMARK [2][-]{subsection.2.28.1}{ContinuousWave}{section.2.28}% 39
+\BOOKMARK [1][-]{section.2.29}{Entropy Estimator}{chapter.2}% 40
+\BOOKMARK [1][-]{section.2.30}{Entropy Estimator}{chapter.2}% 41
+\BOOKMARK [1][-]{section.2.31}{Fork}{chapter.2}% 42
+\BOOKMARK [1][-]{section.2.32}{Gaussian Source}{chapter.2}% 43
+\BOOKMARK [1][-]{section.2.33}{Hamming Decoder}{chapter.2}% 44
+\BOOKMARK [1][-]{section.2.34}{Hamming Encoder}{chapter.2}% 45
+\BOOKMARK [1][-]{section.2.35}{MQAM Receiver}{chapter.2}% 46
+\BOOKMARK [1][-]{section.2.36}{Huffman Decoder}{chapter.2}% 47
+\BOOKMARK [1][-]{section.2.37}{Huffman Encoder}{chapter.2}% 48
+\BOOKMARK [1][-]{section.2.38}{Ideal Amplifier}{chapter.2}% 49
+\BOOKMARK [1][-]{section.2.39}{IQ Modulator}{chapter.2}% 50
+\BOOKMARK [2][-]{figure.caption.442}{Bibliography}{section.2.39}% 51
+\BOOKMARK [1][-]{section.2.40}{IIR Filter}{chapter.2}% 52
+\BOOKMARK [2][-]{section*.450}{Bibliography}{section.2.40}% 53
+\BOOKMARK [1][-]{section.2.41}{IP Tunnel MS Windows}{chapter.2}% 54
+\BOOKMARK [1][-]{section.2.42}{Local Oscillator}{chapter.2}% 55
+\BOOKMARK [1][-]{section.2.43}{Local Oscillator}{chapter.2}% 56
+\BOOKMARK [1][-]{section.2.44}{Mutual Information Estimator}{chapter.2}% 57
+\BOOKMARK [2][-]{section*.483}{Bibliography}{section.2.44}% 58
+\BOOKMARK [1][-]{section.2.45}{MQAM Mapper}{chapter.2}% 59
+\BOOKMARK [1][-]{section.2.46}{M-QAM Receiver}{chapter.2}% 60
+\BOOKMARK [1][-]{section.2.47}{MQAM Transmitter}{chapter.2}% 61
+\BOOKMARK [1][-]{section.2.48}{Netxpto}{chapter.2}% 62
+\BOOKMARK [2][-]{subsection.2.48.1}{ Version 20180118}{section.2.48}% 63
+\BOOKMARK [2][-]{subsection.2.48.2}{ Version 20180418}{section.2.48}% 64
+\BOOKMARK [1][-]{section.2.49}{Alice QKD}{chapter.2}% 65
+\BOOKMARK [1][-]{section.2.50}{Polarizer}{chapter.2}% 66
+\BOOKMARK [1][-]{section.2.51}{Probability Estimator}{chapter.2}% 67
+\BOOKMARK [1][-]{section.2.52}{Quantum Channel Emulator DV}{chapter.2}% 68
+\BOOKMARK [1][-]{section.2.53}{Bob QKD}{chapter.2}% 69
+\BOOKMARK [1][-]{section.2.54}{Eve QKD}{chapter.2}% 70
+\BOOKMARK [1][-]{section.2.55}{Rotator Linear Polarizer}{chapter.2}% 71
+\BOOKMARK [1][-]{section.2.56}{MS Windows IP Tunnel}{chapter.2}% 72
+\BOOKMARK [1][-]{section.2.57}{Mutual Information Estimator}{chapter.2}% 73
+\BOOKMARK [2][-]{section*.609}{Bibliography}{section.2.57}% 74
+\BOOKMARK [1][-]{section.2.58}{Optical Switch}{chapter.2}% 75
+\BOOKMARK [1][-]{section.2.59}{Optical Hybrid}{chapter.2}% 76
+\BOOKMARK [1][-]{section.2.60}{Photodiode pair}{chapter.2}% 77
+\BOOKMARK [1][-]{section.2.61}{Photoelectron Generator}{chapter.2}% 78
+\BOOKMARK [2][-]{section*.665}{Bibliography}{section.2.61}% 79
+\BOOKMARK [1][-]{section.2.62}{Power Spectral Density Estimator}{chapter.2}% 80
+\BOOKMARK [2][-]{Item.35}{Bibliography}{section.2.62}% 81
+\BOOKMARK [1][-]{section.2.63}{Pulse Shaper}{chapter.2}% 82
+\BOOKMARK [1][-]{section.2.64}{Quantizer}{chapter.2}% 83
+\BOOKMARK [1][-]{section.2.65}{Resample}{chapter.2}% 84
+\BOOKMARK [1][-]{section.2.66}{SNR Estimator}{chapter.2}% 85
+\BOOKMARK [2][-]{section*.725}{Bibliography}{section.2.66}% 86
+\BOOKMARK [1][-]{section.2.67}{Sampler}{chapter.2}% 87
+\BOOKMARK [1][-]{section.2.68}{SNR of the Photoelectron Generator}{chapter.2}% 88
+\BOOKMARK [2][-]{section*.756}{Bibliography}{section.2.68}% 89
+\BOOKMARK [1][-]{section.2.69}{Sink}{chapter.2}% 90
+\BOOKMARK [1][-]{section.2.70}{SNR Estimator}{chapter.2}% 91
+\BOOKMARK [2][-]{section*.771}{Bibliography}{section.2.70}% 92
+\BOOKMARK [1][-]{section.2.71}{Single Photon Receiver}{chapter.2}% 93
+\BOOKMARK [1][-]{section.2.72}{SOP Modulator}{chapter.2}% 94
+\BOOKMARK [2][-]{section*.797}{Bibliography}{section.2.72}% 95
+\BOOKMARK [1][-]{section.2.73}{Source Code Efficiency}{chapter.2}% 96
+\BOOKMARK [1][-]{section.2.74}{White Noise}{chapter.2}% 97
+\BOOKMARK [1][-]{section.2.75}{Ideal Amplifier}{chapter.2}% 98
+\BOOKMARK [1][-]{section.2.76}{Phase Mismatch Compensation}{chapter.2}% 99
+\BOOKMARK [2][-]{table.caption.836}{Bibliography}{section.2.76}% 100
+\BOOKMARK [1][-]{section.2.77}{Frequency Mismatch Compensation}{chapter.2}% 101
+\BOOKMARK [2][-]{section*.847}{Bibliography}{section.2.77}% 102
+\BOOKMARK [1][-]{section.2.78}{Cloner}{chapter.2}% 103
+\BOOKMARK [2][-]{section*.853}{Bibliography}{section.2.78}% 104
+\BOOKMARK [1][-]{section.2.79}{Error Vector Magnitude}{chapter.2}% 105
+\BOOKMARK [2][-]{figure.caption.861}{Bibliography}{section.2.79}% 106
+\BOOKMARK [1][-]{section.2.80}{Load Ascii}{chapter.2}% 107
+\BOOKMARK [1][-]{section.2.81}{Load Signal}{chapter.2}% 108
+\BOOKMARK [1][-]{section.2.82}{Matched Filter}{chapter.2}% 109
+\BOOKMARK [1][-]{section.2.83}{Timing Deskew}{chapter.2}% 110
+\BOOKMARK [1][-]{section.2.84}{DC component removal}{chapter.2}% 111
+\BOOKMARK [1][-]{section.2.85}{Orthonormalization}{chapter.2}% 112
+\BOOKMARK [2][-]{section*.902}{Bibliography}{section.2.85}% 113

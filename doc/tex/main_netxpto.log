@@ -1,0 +1,5240 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.21)  16 SEP 2019 09:57
+entering extended mode
+**./main_netxpto.tex
+(main_netxpto.tex
+LaTeX2e <2018-12-01>
+(style/phdthesis.cls
+
+LaTeX Warning: You have requested document class `./style/phdthesis',
+               but the document class provides `phdthesis'.
+
+Document Class: phdthesis 2001/07/18 PhD Dissertation Style
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\book.cls"
+Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\bk11.clo"
+File: bk11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\epsfig.sty"
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+\epsfxsize=\dimen105
+\epsfysize=\dimen106
+)
+\@spacebeforechapterhead=\skip43
+\@spaceinchapterhead=\skip44
+\@spaceafterchapterhead=\skip45
+)
+\@input{./style/my_definitions.aux}
+\openout2 = `./style/my_definitions.aux'.
+
+(style/my_definitions.tex)
+\@input{./style/my_packages.aux}
+\openout2 = `./style/my_packages.aux'.
+
+(style/my_packages.tex
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen107
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen108
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen109
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks16
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks17
+\eqnshift@=\dimen110
+\alignsep@=\dimen111
+\tagshift@=\dimen112
+\tagwidth@=\dimen113
+\totwidth@=\dimen114
+\lineht@=\dimen115
+\@envbody=\toks18
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ansinew.def"
+File: ansinew.def 2018/08/11 v1.3c Input encoding file
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/acronym\acronym.sty"
+Package: acronym 2015/03/21 v1.41 Support for acronyms (Tobias Oetiker)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/bigfoot\suffix.sty"
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/xstring\xstring.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/xstring\xstring.tex"
+\integerpart=\count101
+\decimalpart=\count102
+)
+Package: xstring 2019/02/06 v1.83 String manipulations (CT)
+)
+\AC@clearlist=\toks22
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/a4wide\a4wide.sty"
+Package: a4wide 1994/08/30
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/ntgclass\a4.sty"
+Package: a4 2004/04/15 v1.2g A4 based page layout
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\palatino.sty"
+Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fancybox\fancybox.sty"
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box29
+\shadowsize=\dimen116
+\@Sbox=\box30
+\do@VerbBox=\toks23
+\the@fancyput=\toks24
+\this@fancyput=\toks25
+\EndVerbatimTokens=\toks26
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/placeins\placeins.sty"
+Package: placeins 2005/04/18  v 2.2
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.sty"
+Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count103
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex/latex/logreq\logreq.sty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count104
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/logreq\logreq.def"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count105
+\c@listtotal=\count106
+\c@listcount=\count107
+\c@liststart=\count108
+\c@liststop=\count109
+\c@citecount=\count110
+\c@citetotal=\count111
+\c@multicitecount=\count112
+\c@multicitetotal=\count113
+\c@instcount=\count114
+\c@maxnames=\count115
+\c@minnames=\count116
+\c@maxitems=\count117
+\c@minitems=\count118
+\c@citecounter=\count119
+\c@maxcitecounter=\count120
+\c@savedcitecounter=\count121
+\c@uniquelist=\count122
+\c@uniquename=\count123
+\c@refsection=\count124
+\c@refsegment=\count125
+\c@maxextratitle=\count126
+\c@maxextratitleyear=\count127
+\c@maxextraname=\count128
+\c@maxextradate=\count129
+\c@maxextraalpha=\count130
+\c@abbrvpenalty=\count131
+\c@highnamepenalty=\count132
+\c@lownamepenalty=\count133
+\c@maxparens=\count134
+\c@parenlevel=\count135
+\blx@tempcnta=\count136
+\blx@tempcntb=\count137
+\blx@tempcntc=\count138
+\blx@maxsection=\count139
+\blx@maxsegment@0=\count140
+\blx@notetype=\count141
+\blx@parenlevel@text=\count142
+\blx@parenlevel@foot=\count143
+\blx@sectionciteorder@0=\count144
+\blx@entrysetcounter=\count145
+\labelnumberwidth=\skip58
+\labelalphawidth=\skip59
+\biblabelsep=\skip60
+\bibitemsep=\skip61
+\bibnamesep=\skip62
+\bibinitsep=\skip63
+\bibparsep=\skip64
+\bibhang=\skip65
+\blx@bcfin=\read2
+\blx@bcfout=\write4
+\c@mincomprange=\count146
+\c@maxcomprange=\count147
+\c@mincompwidth=\count148
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-dm.def"
+File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count149
+\c@savedafterword=\count150
+\c@annotator=\count151
+\c@savedannotator=\count152
+\c@author=\count153
+\c@savedauthor=\count154
+\c@bookauthor=\count155
+\c@savedbookauthor=\count156
+\c@commentator=\count157
+\c@savedcommentator=\count158
+\c@editor=\count159
+\c@savededitor=\count160
+\c@editora=\count161
+\c@savededitora=\count162
+\c@editorb=\count163
+\c@savededitorb=\count164
+\c@editorc=\count165
+\c@savededitorc=\count166
+\c@foreword=\count167
+\c@savedforeword=\count168
+\c@holder=\count169
+\c@savedholder=\count170
+\c@introduction=\count171
+\c@savedintroduction=\count172
+\c@namea=\count173
+\c@savednamea=\count174
+\c@nameb=\count175
+\c@savednameb=\count176
+\c@namec=\count177
+\c@savednamec=\count178
+\c@translator=\count179
+\c@savedtranslator=\count180
+\c@shortauthor=\count181
+\c@savedshortauthor=\count182
+\c@shorteditor=\count183
+\c@savedshorteditor=\count184
+\c@labelname=\count185
+\c@savedlabelname=\count186
+\c@institution=\count187
+\c@savedinstitution=\count188
+\c@lista=\count189
+\c@savedlista=\count190
+\c@listb=\count191
+\c@savedlistb=\count192
+\c@listc=\count193
+\c@savedlistc=\count194
+\c@listd=\count195
+\c@savedlistd=\count196
+\c@liste=\count197
+\c@savedliste=\count198
+\c@listf=\count199
+\c@savedlistf=\count266
+\c@location=\count267
+\c@savedlocation=\count268
+\c@organization=\count269
+\c@savedorganization=\count270
+\c@origlocation=\count271
+\c@savedoriglocation=\count272
+\c@origpublisher=\count273
+\c@savedorigpublisher=\count274
+\c@publisher=\count275
+\c@savedpublisher=\count276
+\c@language=\count277
+\c@savedlanguage=\count278
+\c@origlanguage=\count279
+\c@savedoriglanguage=\count280
+\c@pageref=\count281
+\c@savedpageref=\count282
+\shorthandwidth=\skip66
+\shortjournalwidth=\skip67
+\shortserieswidth=\skip68
+\shorttitlewidth=\skip69
+\shortauthorwidth=\skip70
+\shorteditorwidth=\skip71
+\locallabelnumberwidth=\skip72
+\locallabelalphawidth=\skip73
+\localshorthandwidth=\skip74
+\localshortjournalwidth=\skip75
+\localshortserieswidth=\skip76
+\localshorttitlewidth=\skip77
+\localshortauthorwidth=\skip78
+\localshorteditorwidth=\skip79
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-compat.def"
+File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.def"
+File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+\c@textcitecount=\count283
+\c@textcitetotal=\count284
+\c@textcitemaxnames=\count285
+\c@biburlnumpenalty=\count286
+\c@biburlucpenalty=\count287
+\c@biburllcpenalty=\count288
+\c@smartand=\count289
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/bbx\numeric.bbx"
+File: numeric.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/bbx\standard.bbx"
+File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count290
+\c@bbx:relatedtotal=\count291
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/cbx\numeric.cbx"
+File: numeric.cbx 2018/11/02 v3.12 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.cfg"
+File: biblatex.cfg 
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count292
+\float@exts=\toks27
+\float@box=\box31
+\@float@everytoks=\toks28
+\@floatcapt=\box32
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/here\here.sty")
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1enc.def"
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\rotating.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count293
+\rotFPtop=\skip80
+\rotFPbot=\skip81
+\rot@float@box=\box33
+\rot@mess@toks=\toks29
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/multirow\multirow.sty"
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip82
+\multirow@cntb=\count294
+\multirow@dima=\skip83
+\bigstrutjot=\dimen117
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/epigraph\epigraph.sty"
+Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
+\beforeepigraphskip=\skip84
+\afterepigraphskip=\skip85
+\epigraphwidth=\skip86
+\epigraphrule=\skip87
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen118
+\Hy@linkcounter=\count295
+\Hy@pagecounter=\count296
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count297
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count298
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen119
+\Fld@menulength=\count299
+\Field@Width=\dimen120
+\Fld@charsize=\dimen121
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count300
+\c@Item=\count301
+\c@Hfootnote=\count302
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count303
+\c@bookmark@seq@number=\count304
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip88
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 34.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks30
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen122
+\lightrulewidth=\dimen123
+\cmidrulewidth=\dimen124
+\belowrulesep=\dimen125
+\belowbottomsep=\dimen126
+\aboverulesep=\dimen127
+\abovetopsep=\dimen128
+\cmidrulesep=\dimen129
+\cmidrulekern=\dimen130
+\defaultaddspace=\dimen131
+\@cmidla=\count305
+\@cmidlb=\count306
+\@aboverulesep=\dimen132
+\@belowrulesep=\dimen133
+\@thisruleclass=\count307
+\@lastruleclass=\count308
+\@thisrulewidth=\dimen134
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/eurosym\eurosym.sty"
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box34
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/datatool\datatool.sty"
+Package: datatool 2018/12/07 v2.31 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.tex"
+\XKV@toks=\toks31
+\XKV@tempa@toks=\toks32
+)
+\XKV@depth=\count309
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/xfor\xfor.sty"
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/substr\substr.sty"
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count310
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/datatool\datatool-base.sty"
+Package: datatool-base 2018/12/07 v2.31 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/datatool\datatool-fp.sty"
+Package: datatool-fp 2018/12/07 v2.31 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp.sty"
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\defpattern.sty"
+Package: defpattern 1994/10/12
+\actioncount=\count311
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-basic.sty"
+Package: fp-basic 1996/05/13
+\FP@xs=\count312
+\FP@xia=\count313
+\FP@xib=\count314
+\FP@xfa=\count315
+\FP@xfb=\count316
+\FP@rega=\count317
+\FP@regb=\count318
+\FP@regs=\count319
+\FP@times=\count320
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-addons.sty"
+Package: fp-addons 1995/03/15
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-snap.sty"
+Package: fp-snap 1995/04/05
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-exp.sty"
+Package: fp-exp 1995/04/03
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-trigo.sty"
+Package: fp-trigo 1995/04/14
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-pas.sty"
+Package: fp-pas 1994/08/29
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-random.sty"
+Package: fp-random 1995/02/23
+\FPseed=\count321
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-eqn.sty"
+Package: fp-eqn 1995/04/03
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-upn.sty"
+Package: fp-upn 1996/10/21
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fp\fp-eval.sty"
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks33
+\@dtl@tmpcount=\count322
+\dtl@tmplength=\skip89
+\dtl@sortresult=\count323
+\@dtl@numgrpsepcount=\count324
+\@dtl@datatype=\count325
+\dtl@codeA=\count326
+\dtl@codeB=\count327
+\@dtl@foreach@level=\count328
+)
+\dtlcolumnnum=\count329
+\dtlrownum=\count330
+\@dtl@before=\toks34
+\@dtl@after=\toks35
+\@dtl@colhead=\toks36
+\dtlcurrentrow=\toks37
+\dtlbeforerow=\toks38
+\dtlafterrow=\toks39
+\dtlforeachlevel=\count331
+\c@DTLrowi=\count332
+\c@DTLrowii=\count333
+\c@DTLrowiii=\count334
+\c@DTLrow=\count335
+\dtl@rowi=\count336
+\dtl@rowii=\count337
+\dtl@rowiii=\count338
+\@dtl@curi=\toks40
+\@dtl@previ=\toks41
+\@dtl@nexti=\toks42
+\@dtl@curii=\toks43
+\@dtl@previi=\toks44
+\@dtl@nextii=\toks45
+\@dtl@curiii=\toks46
+\@dtl@previii=\toks47
+\@dtl@nextiii=\toks48
+\@dtl@elements=\count339
+\@dtl@list=\toks49
+\@dtl@rowa=\toks50
+\@dtl@rowb=\toks51
+\@dtl@toksA=\toks52
+\@dtl@toksB=\toks53
+\@dtl@write=\write5
+\@dtl@read=\read3
+\dtl@entrycr=\count340
+\dtl@omitlines=\count341
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/glossaries/base\glossaries.sty"
+Package: glossaries 2019/01/06 v4.42 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/mfirstuc\mfirstuc.sty"
+Package: mfirstuc 2017/11/14 v2.06 (NLCT)
+\@glsmfirst=\toks54
+\@glsmrest=\toks55
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/textcase\textcase.sty"
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/glossaries/base\glossaries-compatible-3
+07.sty"
+Package: glossaries-compatible-307 2019/01/06 v4.42 (NLCT)
+)
+\gls@level=\count342
+\@gls@tmpb=\toks56
+\gls@tmplen=\skip90
+\glskeylisttok=\toks57
+\glslabeltok=\toks58
+\glsshorttok=\toks59
+\glslongtok=\toks60
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/glossaries/styles\glossary-hypernav.sty
+"
+Package: glossary-hypernav 2019/01/06 v4.42 (NLCT)
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/glossaries/styles\glossary-list.sty"
+Package: glossary-list 2019/01/06 v4.42 (NLCT)
+\glslistdottedwidth=\skip91
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/glossaries/styles\glossary-long.sty"
+Package: glossary-long 2019/01/06 v4.42 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
+\LTleft=\skip92
+\LTright=\skip93
+\LTpre=\skip94
+\LTpost=\skip95
+\LTchunksize=\count343
+\LTcapwidth=\dimen135
+\LT@head=\box35
+\LT@firsthead=\box36
+\LT@foot=\box37
+\LT@lastfoot=\box38
+\LT@cols=\count344
+\LT@rows=\count345
+\c@LT@tables=\count346
+\c@LT@chunks=\count347
+\LT@p@ftn=\toks61
+)
+\glsdescwidth=\skip96
+\glspagelistwidth=\skip97
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/glossaries/styles\glossary-super.sty"
+Package: glossary-super 2019/01/06 v4.42 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/supertabular\supertabular.sty"
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count348
+\ST@wd=\dimen136
+\ST@rightskip=\skip98
+\ST@leftskip=\skip99
+\ST@parfillskip=\skip100
+\ST@pageleft=\dimen137
+\ST@headht=\dimen138
+\ST@tailht=\dimen139
+\ST@pagesofar=\dimen140
+\ST@pboxht=\dimen141
+\ST@lineht=\dimen142
+\ST@stretchht=\dimen143
+\ST@prevht=\dimen144
+\ST@toadd=\dimen145
+\ST@dimen=\dimen146
+\ST@pbox=\box39
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/glossaries/styles\glossary-tree.sty"
+Package: glossary-tree 2019/01/06 v4.42 (NLCT)
+\glstreeindent=\skip101
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption.sty"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption3.sty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen147
+\captionmargin@=\dimen148
+\captionwidth=\dimen149
+\caption@tempdima=\dimen150
+\caption@indent=\dimen151
+\caption@parindent=\dimen152
+\caption@hangindent=\dimen153
+)
+\c@caption@flags=\count349
+\c@ContinuedFloat=\count350
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\ltcaption.sty"
+Package: ltcaption 2018/08/26 v1.4-95 longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: supertabular package is loaded.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\subcaption.sty"
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
+\c@subfigure=\count351
+\c@subtable=\count352
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/tabulary\tabulary.sty"
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen154
+\ar@mcellbox=\box40
+\extrarowheight=\dimen155
+\NC@list=\toks62
+\extratabsurround=\skip102
+\backup@length=\skip103
+\ar@cellbox=\box41
+)
+\TY@count=\count353
+\TY@linewidth=\dimen156
+\tymin=\dimen157
+\tymax=\dimen158
+\TY@tablewidth=\dimen159
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/braket\braket.sty")
+("C:\Program Files\MiKTeX 2.9\tex/latex/subfiles\subfiles.sty"
+Package: subfiles 2018/07/31 Federico Garcia, Gernot Salzer
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks63
+\verbatim@line=\toks64
+\verbatim@in@stream=\read4
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\multicol.sty"
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count354
+\mult@box=\box42
+\multicol@leftmargin=\dimen160
+\c@unbalance=\count355
+\c@collectmore=\count356
+\doublecol@number=\count357
+\multicoltolerance=\count358
+\multicolpretolerance=\count359
+\full@width=\dimen161
+\page@free=\dimen162
+\premulticols=\dimen163
+\postmulticols=\dimen164
+\multicolsep=\skip104
+\multicolbaselineskip=\skip105
+\partial@page=\box43
+\last@line=\box44
+\maxbalancingoverflow=\dimen165
+\mult@rightbox=\box45
+\mult@grightbox=\box46
+\mult@gfirstbox=\box47
+\mult@firstbox=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\c@columnbadness=\count360
+\c@finalcolumnbadness=\count361
+\last@try=\dimen166
+\multicolovershoot=\dimen167
+\multicolundershoot=\dimen168
+\mult@nat@firstbox=\box66
+\colbreak@box=\box67
+\mc@col@check@num=\count362
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/tcolorbox\tcolorbox.sty"
+Package: tcolorbox 2018/12/07 version 4.15 text color boxes
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/utilities\pgfrcs.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks65
+\pgfutil@tempdima=\dimen169
+\pgfutil@tempdimb=\dimen170
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-common-lists.te
+x")) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-latex.def"
+\pgfutil@abb=\box68
+("C:\Program Files\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfrcs.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf\pgf.revision.tex")
+Package: pgfrcs 2019/02/02 v3.1.1 (3.1.1)
+))
+Package: pgf 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgfcore.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/systemlayer\pgfsys.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsys.code.tex"
+Package: pgfsys 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks66
+\pgfkeys@temptoks=\toks67
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeysfiltered.code.te
+x"
+\pgfkeys@tmptoks=\toks68
+))
+\pgf@x=\dimen171
+\pgf@y=\dimen172
+\pgf@xa=\dimen173
+\pgf@ya=\dimen174
+\pgf@xb=\dimen175
+\pgf@yb=\dimen176
+\pgf@xc=\dimen177
+\pgf@yc=\dimen178
+\w@pgf@writea=\write6
+\r@pgf@reada=\read5
+\c@pgf@counta=\count363
+\c@pgf@countb=\count364
+\c@pgf@countc=\count365
+\c@pgf@countd=\count366
+\t@pgf@toka=\toks69
+\t@pgf@tokb=\toks70
+\t@pgf@tokc=\toks71
+\pgf@sys@id@count=\count367
+ ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgf.cfg"
+File: pgf.cfg 2019/02/02 v3.1.1 (3.1.1)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+"
+File: pgfsys-common-pdf.def 2019/02/02 v3.1.1 (3.1.1)
+)))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.t
+ex"
+File: pgfsyssoftpath.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfsyssoftpath@smallbuffer@items=\count368
+\pgfsyssoftpath@bigbuffer@items=\count369
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsysprotocol.code.t
+ex"
+File: pgfsysprotocol.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)) ("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcore.code.tex"
+Package: pgfcore 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathcalc.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathutil.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen179
+\pgfmath@count=\count370
+\pgfmath@box=\box69
+\pgfmath@toks=\toks72
+\pgfmath@stack@operand=\toks73
+\pgfmath@stack@operation=\toks74
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.basic.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.trigonometr
+ic.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.random.code
+.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.comparison.
+code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.base.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.round.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.misc.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.integerarit
+hmetics.code.tex")))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count371
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+"
+File: pgfcorepoints.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@picminx=\dimen180
+\pgf@picmaxx=\dimen181
+\pgf@picminy=\dimen182
+\pgf@picmaxy=\dimen183
+\pgf@pathminx=\dimen184
+\pgf@pathmaxx=\dimen185
+\pgf@pathminy=\dimen186
+\pgf@pathmaxy=\dimen187
+\pgf@xx=\dimen188
+\pgf@xy=\dimen189
+\pgf@yx=\dimen190
+\pgf@yy=\dimen191
+\pgf@zx=\dimen192
+\pgf@zy=\dimen193
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepathconstruct.c
+ode.tex"
+File: pgfcorepathconstruct.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@path@lastx=\dimen194
+\pgf@path@lasty=\dimen195
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepathusage.code.
+tex"
+File: pgfcorepathusage.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@shorten@end@additional=\dimen196
+\pgf@shorten@start@additional=\dimen197
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+"
+File: pgfcorescopes.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfpic=\box70
+\pgf@hbox=\box71
+\pgf@layerbox@main=\box72
+\pgf@picture@serial@count=\count372
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoregraphicstate.co
+de.tex"
+File: pgfcoregraphicstate.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgflinewidth=\dimen198
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoretransformations
+.code.tex"
+File: pgfcoretransformations.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@pt@x=\dimen199
+\pgf@pt@y=\dimen256
+\pgf@pt@temp=\dimen257
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreobjects.code.te
+x"
+File: pgfcoreobjects.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepathprocessing.
+code.tex"
+File: pgfcorepathprocessing.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+"
+File: pgfcorearrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfarrowsep=\dimen258
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@max=\dimen259
+\pgf@sys@shading@range@num=\count373
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreimage.code.te
+x"
+File: pgfcoreimage.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreexternal.code.t
+ex"
+File: pgfcoreexternal.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfexternal@startupbox=\box73
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+"
+File: pgfcorelayers.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoretransparency.co
+de.tex"
+File: pgfcoretransparency.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepatterns.code.t
+ex"
+File: pgfcorepatterns.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/modules\pgfmoduleshapes.code.
+tex"
+File: pgfmoduleshapes.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfnodeparttextbox=\box74
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/compatibility\pgfcomp-version-0-65.
+sty"
+Package: pgfcomp-version-0-65 2019/02/02 v3.1.1 (3.1.1)
+\pgf@nodesepstart=\dimen260
+\pgf@nodesepend=\dimen261
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/compatibility\pgfcomp-version-1-18.
+sty"
+Package: pgfcomp-version-1-18 2019/02/02 v3.1.1 (3.1.1)
+)) ("C:\Program Files\MiKTeX 2.9\tex/latex/environ\environ.sty"
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/trimspaces\trimspaces.sty"
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box75
+\tcb@upperbox=\box76
+\tcb@lowerbox=\box77
+\tcb@phantombox=\box78
+\c@tcbbreakpart=\count374
+\c@tcblayer=\count375
+\tcolorbox@number=\count376
+\tcb@temp=\box79
+\tcb@temp=\box80
+\tcb@temp=\box81
+\tcb@temp=\box82
+\tcb@out=\write7
+\tcb@record@out=\write8
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/frontendlayer\tikz.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/utilities\pgffor.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/utilities\pgfkeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeys.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/math\pgfmath.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgffor.code.tex"
+Package: pgffor 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.code.tex")
+\pgffor@iter=\dimen262
+\pgffor@skip=\dimen263
+\pgffor@stack=\toks75
+\pgffor@toks=\toks76
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex"
+Package: tikz 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries\pgflibraryplothandlers.
+code.tex"
+File: pgflibraryplothandlers.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@plot@mark@count=\count377
+\pgfplotmarksize=\dimen264
+)
+\tikz@lastx=\dimen265
+\tikz@lasty=\dimen266
+\tikz@lastxsaved=\dimen267
+\tikz@lastysaved=\dimen268
+\tikzleveldistance=\dimen269
+\tikzsiblingdistance=\dimen270
+\tikz@figbox=\box83
+\tikz@figbox@bg=\box84
+\tikz@tempbox=\box85
+\tikz@tempbox@bg=\box86
+\tikztreelevel=\count378
+\tikznumberofchildren=\count379
+\tikznumberofcurrentchild=\count380
+\tikz@fig@count=\count381
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfmatrixcurrentrow=\count382
+\pgfmatrixcurrentcolumn=\count383
+\pgf@matrix@numberofcolumns=\count384
+)
+\tikz@expandcount=\count385
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+librarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryshapes.code.tex"
+File: tikzlibraryshapes.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryshapes.geometric.code.tex"
+File: tikzlibraryshapes.geometric.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/shapes\pgflibraryshapes
+.geometric.code.tex"
+File: pgflibraryshapes.geometric.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryshapes.misc.code.tex"
+File: tikzlibraryshapes.misc.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/shapes\pgflibraryshapes
+.misc.code.tex"
+File: pgflibraryshapes.misc.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryshapes.symbols.code.tex"
+File: tikzlibraryshapes.symbols.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/shapes\pgflibraryshapes
+.symbols.code.tex"
+File: pgflibraryshapes.symbols.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryshapes.arrows.code.tex"
+File: tikzlibraryshapes.arrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/shapes\pgflibraryshapes
+.arrows.code.tex"
+File: pgflibraryshapes.arrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryshapes.callouts.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/shapes\pgflibraryshapes
+.callouts.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryshapes.multipart.code.tex"
+File: tikzlibraryshapes.multipart.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/shapes\pgflibraryshapes
+.multipart.code.tex"
+File: pgflibraryshapes.multipart.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfnodepartlowerbox=\box87
+\pgfnodeparttwobox=\box88
+\pgfnodepartthreebox=\box89
+\pgfnodepartfourbox=\box90
+\pgfnodeparttwentybox=\box91
+\pgfnodepartnineteenbox=\box92
+\pgfnodeparteighteenbox=\box93
+\pgfnodepartseventeenbox=\box94
+\pgfnodepartsixteenbox=\box95
+\pgfnodepartfifteenbox=\box96
+\pgfnodepartfourteenbox=\box97
+\pgfnodepartthirteenbox=\box98
+\pgfnodeparttwelvebox=\box99
+\pgfnodepartelevenbox=\box100
+\pgfnodeparttenbox=\box101
+\pgfnodepartninebox=\box102
+\pgfnodeparteightbox=\box103
+\pgfnodepartsevenbox=\box104
+\pgfnodepartsixbox=\box105
+\pgfnodepartfivebox=\box106
+)))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryarrows.code.tex"
+File: tikzlibraryarrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries\pgflibraryarrows.code.t
+ex"
+File: pgflibraryarrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\arrowsize=\dimen271
+)) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf.sty"
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.sty"
+\lst@mode=\count386
+\lst@gtempboxa=\box107
+\lst@token=\toks77
+\lst@length=\count387
+\lst@currlwidth=\dimen272
+\lst@column=\count388
+\lst@pos=\count389
+\lst@lostspace=\dimen273
+\lst@width=\dimen274
+\lst@newlines=\count390
+\lst@lineno=\count391
+\lst@maxwidth=\dimen275
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count392
+\lst@skipnumbers=\count393
+\lst@framebox=\box108
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg"
+File: listings.cfg 2018/09/02 1.7 listings configuration
+))
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\textcomp.sty"
+Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
+File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/jknappen\mathrsfs.sty"
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/changepage\changepage.sty"
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count394
+\cp@tempcnt=\count395
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgfplots\pgfplots.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots\pgfplots.revision.tex")
+Package: pgfplots 2018/03/28 v1.16 Data Visualization (1.16)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots\pgfplots.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots\pgfplotscore.code.tex"
+\t@pgfplots@toka=\toks78
+\t@pgfplots@tokb=\toks79
+\t@pgfplots@tokc=\toks80
+\pgfplots@tmpa=\dimen276
+\c@pgfplots@coordindex=\count396
+\c@pgfplots@scanlineindex=\count397
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.
+tex"))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots/libs\pgfplotslibrary.code.te
+x")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpg
+fsupp_loader.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries\pgflibraryfpu.code.tex"
+)
+Package pgfplots: loading complementary arithmetics for your pgf version...
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpg
+fsupp_pgflibraryfpu.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpg
+fsupp_pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count398
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots/util\pgfplotsutil.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots/liststructure\pgfplotslistst
+ructure.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots/liststructure\pgfplotslistst
+ructureext.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots/liststructure\pgfplotsarray.
+code.tex"
+\c@pgfplotsarray@tmp=\count399
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots/liststructure\pgfplotsmatrix
+.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots/numtable\pgfplotstableshared
+.code.tex"
+\c@pgfplotstable@counta=\count400
+\t@pgfplotstable@a=\toks81
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots/liststructure\pgfplotsdeque.
+code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots/util\pgfplotsbinary.code.tex
+"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots/util\pgfplotsbinary.data.cod
+e.tex"))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots/util\pgfplotsutil.verb.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots/libs\pgflibrarypgfplots.surf
+shading.code.tex"
+\c@pgfplotslibrarysurf@no=\count401
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfs
+hading.pgfsys-pdftex.def")))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots/util\pgfplotscolormap.code.t
+ex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots/util\pgfplotscolor.code.tex"
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots\pgfplotsstackedplots.code.te
+x")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots\pgfplotsplothandlers.code.te
+x"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots\pgfplotsmeshplothandler.code
+.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots\pgfplotsmeshplotimage.code.t
+ex")))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots\pgfplots.scaling.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots\pgfplotscoordprocessing.code
+.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots\pgfplots.errorbars.code.tex"
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots\pgfplots.markers.code.tex"
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots\pgfplotsticks.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgfplots\pgfplots.paths.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+librarydecorations.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/modules\pgfmoduledecorations.code
+.tex"
+\pgfdecoratedcompleteddistance=\dimen277
+\pgfdecoratedremainingdistance=\dimen278
+\pgfdecoratedinputsegmentcompleteddistance=\dimen279
+\pgfdecoratedinputsegmentremainingdistance=\dimen280
+\pgf@decorate@distancetomove=\dimen281
+\pgf@decorate@repeatstate=\count402
+\pgfdecorationsegmentamplitude=\dimen282
+\pgfdecorationsegmentlength=\dimen283
+)
+\tikz@lib@dec@box=\box109
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+librarydecorations.pathmorphing.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/decorations\pgflibraryd
+ecorations.pathmorphing.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+librarydecorations.pathreplacing.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/decorations\pgflibraryd
+ecorations.pathreplacing.code.tex"))
+\pgfplots@numplots=\count403
+\pgfplots@xmin@reg=\dimen284
+\pgfplots@xmax@reg=\dimen285
+\pgfplots@ymin@reg=\dimen286
+\pgfplots@ymax@reg=\dimen287
+\pgfplots@zmin@reg=\dimen288
+\pgfplots@zmax@reg=\dimen289
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryplotmarks.code.tex"
+File: tikzlibraryplotmarks.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries\pgflibraryplotmarks.cod
+e.tex"
+File: pgflibraryplotmarks.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))))
+\@input{./style/my_bib_files.aux}
+\openout2 = `./style/my_bib_files.aux'.
+
+(style/my_bib_files.tex)
+\@input{./style/my_commands.aux}
+\openout2 = `./style/my_commands.aux'.
+
+(style/my_commands.tex)
+\@input{./style/my_figures.aux}
+\openout2 = `./style/my_figures.aux'.
+
+(style/my_figures.tex)
+\@indexfile=\write9
+\openout9 = `main_netxpto.idx'.
+
+
+Writing index file main_netxpto.idx
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\english.lbx"
+File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+)
+\@quotelevel=\count404
+\@quotereset=\count405
+
+(main_netxpto.aux (chapter/case_studies.aux
+
+LaTeX Warning: Label `fig:garbledcircuit' multiply defined.
+
+
+LaTeX Warning: Label `eq:f_to_be_computed' multiply defined.
+
+
+LaTeX Warning: Label `eq:fc_to_be_computed' multiply defined.
+
+
+LaTeX Warning: Label `fig:andGate' multiply defined.
+
+
+LaTeX Warning: Label `fig:smcwithot' multiply defined.
+
+
+LaTeX Warning: Label `tb:truthtable' multiply defined.
+
+
+LaTeX Warning: Label `tb:truthtable' multiply defined.
+
+
+LaTeX Warning: Label `tb:truthtable' multiply defined.
+
+) (chapter/library.aux
+
+LaTeX Warning: Label `table:bin_sour_in_par' multiply defined.
+
+
+LaTeX Warning: Label `BinarySignalImage' multiply defined.
+
+
+LaTeX Warning: Label `AsciiSignalImage' multiply defined.
+
+
+LaTeX Warning: Label `table:cpe_in_par_vv' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `table' multiply defined.
+
+
+LaTeX Warning: Label `table:sink_in_par' multiply defined.
+
+
+LaTeX Warning: Label `IP Tunnel Block' multiply defined.
+
+
+LaTeX Warning: Label `table:LO_in_par' multiply defined.
+
+
+LaTeX Warning: Label `MQAM_transmitter_block_diagram' multiply defined.
+
+
+LaTeX Warning: Label `table:bin_sour_in_par' multiply defined.
+
+
+LaTeX Warning: Label `table:ipt_in_par' multiply defined.
+
+
+LaTeX Warning: Label `IP Tunnel Block' multiply defined.
+
+
+LaTeX Warning: Label `sec_mi' multiply defined.
+
+
+LaTeX Warning: Label `eq:mi_property' multiply defined.
+
+
+LaTeX Warning: Label `eq:entropyout' multiply defined.
+
+
+LaTeX Warning: Label `eq:mi_final' multiply defined.
+
+
+LaTeX Warning: Label `table:sink_in_par' multiply defined.
+
+
+LaTeX Warning: Label `snrcalc' multiply defined.
+
+
+LaTeX Warning: Label `sec:snrEstm2m4' multiply defined.
+
+
+LaTeX Warning: Label `snrestissues' multiply defined.
+
+
+LaTeX Warning: Label `table' multiply defined.
+
+
+LaTeX Warning: Label `table' multiply defined.
+
+
+LaTeX Warning: Label `table:sink_in_par' multiply defined.
+
+
+LaTeX Warning: Label `table:idealamp_in_par' multiply defined.
+
+
+LaTeX Warning: Label `eq:signalAfterCoherentDetection' multiply defined.
+
+
+LaTeX Warning: Label `bercalc' multiply defined.
+
+))
+\openout1 = `main_netxpto.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 29.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 29.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\t1ppl.fd"
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+("C:\Program Files\MiKTeX 2.9\tex/context/base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count406
+\scratchdimen=\dimen290
+\scratchbox=\box110
+\nofMPsegments=\count407
+\nofMParguments=\count408
+\everyMPshowfont=\toks82
+\MPscratchCnt=\count409
+\MPscratchDim=\dimen291
+\MPnumerator=\count410
+\makeMPintoPDFobject=\count411
+\everyMPtoPDFconversion=\toks83
+)
+Package biblatex Info: Input encoding 'ansinew' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'ansinew'.
+\openout4 = `main_netxpto.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main_netxpto.bbl' found.
+ (main_netxpto.bbl)
+Package biblatex Info: Reference section=0 on input line 29.
+Package biblatex Info: Reference segment=0 on input line 29.
+\AtBeginShipoutBox=\box111
+Package hyperref Info: Link coloring ON on input line 29.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count412
+)
+LaTeX Info: Redefining \ref on input line 29.
+LaTeX Info: Redefining \pageref on input line 29.
+LaTeX Info: Redefining \nameref on input line 29.
+
+(main_netxpto.out) (main_netxpto.out)
+\@outlinefile=\write10
+\openout10 = `main_netxpto.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ ABD: EveryShipout initializing macros
+\c@lstlisting=\count413
+
+Package pgfplots notification 'compat/show suggested version=true': you might b
+enefit from \pgfplotsset{compat=1.16} (current compat level: 1.10).
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 38.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 38.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 38.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/jknappen\ursfs.fd"
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+) [1
+
+
+
+
+
+\providecommand\@newglossary[4]{}
+\@newglossary{main}{glg}{gls}{glo}
+\@newglossary{acronym}{alg}{acr}{acn}
+
+
+
+
+
+
+
+
+{C:/Users/anp/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 40.
+
+(main_netxpto.toc
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 3.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.81 ...rier Phase Compensation}{81}{section.2.21}
+                                                  % [1
+
+] [2])
+\tf@toc=\write11
+\openout11 = `main_netxpto.toc'.
+
+ [3]
+\openout2 = `chapter/case_studies.aux'.
+
+
+(chapter/case_studies.tex
+Chapter 1.
+(sdf/secure_multiparty_computation/secure_multiparty_computation.tex [4
+
+
+]
+\blx@maxsegment@1=\count414
+\blx@sectionciteorder@1=\count415
+Package biblatex Info: Reference section=1 on input line 4.
+Package biblatex Info: Setting label 'refsection:1' on input line 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+[]|\T1/ppl/m/n/10.95 Description of the prob-lem of Se-cure Multi-Party
+ []
+
+
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 7--14
+[][] 
+ []
+
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 17.
+
+Underfull \hbox (badness 1237) in paragraph at lines 19--20
+\T1/ppl/m/n/10.95 In \T1/ppl/m/it/10.95 Se-cure Multi-Party Com-pu-ta-tion \T1/
+ppl/m/n/10.95 (SMC) the func-tion to be com-puted is de-fined as
+ []
+
+<./sdf/secure_multiparty_computation/figures/smc_N.pdf, id=595, 693.02603pt x 4
+98.13612pt>
+File: ./sdf/secure_multiparty_computation/figures/smc_N.pdf Graphic file (type 
+pdf)
+<use ./sdf/secure_multiparty_computation/figures/smc_N.pdf>
+Package pdftex.def Info: ./sdf/secure_multiparty_computation/figures/smc_N.pdf 
+ used on input line 23.
+(pdftex.def)             Requested size: 442.66801pt x 199.1673pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]\T1/ppl/m/n/10.95 Figure 1.1: |N en-ti-ties are able to jointly com-pute $\OT
+1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 y[]; y[]; y[]; y[]; :::; y[]\OT1/cmr/m/n/1
+0.95 ) =
+ []
+
+[5
+
+ <./sdf/secure_multiparty_computation/figures/smc_N.pdf, page is rotated 90 deg
+rees>]
+<./sdf/secure_multiparty_computation/figures/garbled_circuit.png, id=698, 1094.
+58937pt x 496.85625pt>
+File: ./sdf/secure_multiparty_computation/figures/garbled_circuit.png Graphic f
+ile (type png)
+<use ./sdf/secure_multiparty_computation/figures/garbled_circuit.png>
+Package pdftex.def Info: ./sdf/secure_multiparty_computation/figures/garbled_ci
+rcuit.png  used on input line 42.
+(pdftex.def)             Requested size: 442.65489pt x 199.17111pt.
+ [6 <./sdf/secure_multiparty_computation/figures/garbled_circuit.png>]
+<./sdf/secure_multiparty_computation/figures/Gate.png, id=710, 468.24937pt x 22
+8.10219pt>
+File: ./sdf/secure_multiparty_computation/figures/Gate.png Graphic file (type p
+ng)
+<use ./sdf/secure_multiparty_computation/figures/Gate.png>
+Package pdftex.def Info: ./sdf/secure_multiparty_computation/figures/Gate.png  
+used on input line 85.
+(pdftex.def)             Requested size: 177.05779pt x 71.1286pt.
+
+Underfull \hbox (badness 1199) in paragraph at lines 89--90
+[]\T1/ppl/m/n/10.95 Figure [][]1.7[][] shows the log-i-cal boolean cir-cuit rep
+-re-sen-ta-tion of the func-tion to be
+ []
+
+<./sdf/secure_multiparty_computation/figures/smc_with_ot.png, id=713, 826.58812
+pt x 481.04718pt>
+File: ./sdf/secure_multiparty_computation/figures/smc_with_ot.png Graphic file 
+(type png)
+<use ./sdf/secure_multiparty_computation/figures/smc_with_ot.png>
+Package pdftex.def Info: ./sdf/secure_multiparty_computation/figures/smc_with_o
+t.png  used on input line 93.
+(pdftex.def)             Requested size: 442.65541pt x 284.53471pt.
+[7 <./sdf/secure_multiparty_computation/figures/Gate.png>] [8 <./sdf/secure_mul
+tiparty_computation/figures/smc_with_ot.png>] [9] [10]
+File: ./sdf/secure_multiparty_computation/figures/smc_N.pdf Graphic file (type 
+pdf)
+<use ./sdf/secure_multiparty_computation/figures/smc_N.pdf>
+Package pdftex.def Info: ./sdf/secure_multiparty_computation/figures/smc_N.pdf 
+ used on input line 205.
+(pdftex.def)             Requested size: 256.07722pt x 199.1673pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
+[]\T1/ppl/m/n/10.95 Figure 1.5: |N en-ti-ties are able to jointly com-pute $\OT
+1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 y[]; y[]; y[]; y[]; :::; y[]\OT1/cmr/m/n/1
+0.95 ) =
+ []
+
+[11]
+File: ./sdf/secure_multiparty_computation/figures/garbled_circuit.png Graphic f
+ile (type png)
+<use ./sdf/secure_multiparty_computation/figures/garbled_circuit.png>
+Package pdftex.def Info: ./sdf/secure_multiparty_computation/figures/garbled_ci
+rcuit.png  used on input line 224.
+(pdftex.def)             Requested size: 442.65489pt x 199.17111pt.
+ [12]
+<./sdf/secure_multiparty_computation/figures/nand.png, id=774, 374.5995pt x 182
+.48175pt>
+File: ./sdf/secure_multiparty_computation/figures/nand.png Graphic file (type p
+ng)
+<use ./sdf/secure_multiparty_computation/figures/nand.png>
+Package pdftex.def Info: ./sdf/secure_multiparty_computation/figures/nand.png  
+used on input line 267.
+(pdftex.def)             Requested size: 177.05635pt x 71.1314pt.
+
+Underfull \hbox (badness 1199) in paragraph at lines 271--272
+[]\T1/ppl/m/n/10.95 Figure [][]1.7[][] shows the log-i-cal boolean cir-cuit rep
+-re-sen-ta-tion of the func-tion to be
+ []
+
+<./sdf/secure_multiparty_computation/figures/smc_with_ot_ANP.png, id=777, 661.2
+705pt x 573.342pt>
+File: ./sdf/secure_multiparty_computation/figures/smc_with_ot_ANP.png Graphic f
+ile (type png)
+<use ./sdf/secure_multiparty_computation/figures/smc_with_ot_ANP.png>
+Package pdftex.def Info: ./sdf/secure_multiparty_computation/figures/smc_with_o
+t_ANP.png  used on input line 275.
+(pdftex.def)             Requested size: 398.38986pt x 426.81224pt.
+[13 <./sdf/secure_multiparty_computation/figures/nand.png>] [14 <./sdf/secure_m
+ultiparty_computation/figures/smc_with_ot_ANP.png>] [15]
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 347.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\t1pcr.fd"
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 354.
+ [16] [17]
+<./sdf/secure_multiparty_computation/figures/tiny_garble_flow.png, id=839, 1257
+.69875pt x 351.3125pt>
+File: ./sdf/secure_multiparty_computation/figures/tiny_garble_flow.png Graphic 
+file (type png)
+<use ./sdf/secure_multiparty_computation/figures/tiny_garble_flow.png>
+Package pdftex.def Info: ./sdf/secure_multiparty_computation/figures/tiny_garbl
+e_flow.png  used on input line 403.
+(pdftex.def)             Requested size: 442.6384pt x 85.35667pt.
+
+
+LaTeX Warning: Reference `ssec:usingVHDL' on page 18 undefined on input line 40
+7.
+
+LaTeX Font Info:    Try loading font information for TS1+ppl on input line 413.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ts1ppl.fd"
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang2.sty"
+File: lstlang2.sty 2018/09/02 1.7 listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang3.sty"
+File: lstlang3.sty 2018/09/02 1.7 listings language file
+) [18 <./sdf/secure_multiparty_computation/figures/tiny_garble_flow.png>] [19] 
+[20]
+<./sdf/secure_multiparty_computation/figures/tinygarble_and_a.png, id=894, 1069
+.9975pt x 475.7775pt>
+File: ./sdf/secure_multiparty_computation/figures/tinygarble_and_a.png Graphic 
+file (type png)
+<use ./sdf/secure_multiparty_computation/figures/tinygarble_and_a.png>
+Package pdftex.def Info: ./sdf/secure_multiparty_computation/figures/tinygarble
+_and_a.png  used on input line 486.
+(pdftex.def)             Requested size: 442.65291pt x 199.1718pt.
+<./sdf/secure_multiparty_computation/figures/tinygarble_and_b.png, id=895, 1069
+.9975pt x 473.77pt>
+File: ./sdf/secure_multiparty_computation/figures/tinygarble_and_b.png Graphic 
+file (type png)
+<use ./sdf/secure_multiparty_computation/figures/tinygarble_and_b.png>
+Package pdftex.def Info: ./sdf/secure_multiparty_computation/figures/tinygarble
+_and_b.png  used on input line 492.
+(pdftex.def)             Requested size: 442.65291pt x 199.17pt.
+<./sdf/secure_multiparty_computation/figures/tinygarble_xor_4bits_b.png, id=896
+, 755.82375pt x 327.47343pt>
+File: ./sdf/secure_multiparty_computation/figures/tinygarble_xor_4bits_b.png Gr
+aphic file (type png)
+<use ./sdf/secure_multiparty_computation/figures/tinygarble_xor_4bits_b.png>
+Package pdftex.def Info: ./sdf/secure_multiparty_computation/figures/tinygarble
+_xor_4bits_b.png  used on input line 500.
+(pdftex.def)             Requested size: 442.6568pt x 199.16887pt.
+ [21 <./sdf/secure_multiparty_computation/figures/tinygarble_and_a.png> <./sdf/
+secure_multiparty_computation/figures/tinygarble_and_b.png>] [22 <./sdf/secure_
+multiparty_computation/figures/tinygarble_xor_4bits_b.png>]
+<./sdf/secure_multiparty_computation/figures/key_file.png, id=919, 614.295pt x 
+318.43968pt>
+File: ./sdf/secure_multiparty_computation/figures/key_file.png Graphic file (ty
+pe png)
+<use ./sdf/secure_multiparty_computation/figures/key_file.png>
+Package pdftex.def Info: ./sdf/secure_multiparty_computation/figures/key_file.p
+ng  used on input line 547.
+(pdftex.def)             Requested size: 442.65761pt x 156.4887pt.
+ [23 <./sdf/secure_multiparty_computation/figures/key_file.png>]
+Overfull \hbox (102.66066pt too wide) in paragraph at lines 566--567
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (207.78151pt too wide) in paragraph at lines 567--569
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][] 
+ []
+
+
+Overfull \hbox (168.36119pt too wide) in paragraph at lines 572--573
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (43.53018pt too wide) in paragraph at lines 573--574
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (201.21146pt too wide) in paragraph at lines 574--575
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+] 
+ []
+
+
+Overfull \hbox (82.9505pt too wide) in paragraph at lines 575--577
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (220.92162pt too wide) in paragraph at lines 577--578
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][] 
+ []
+
+
+Overfull \hbox (253.77188pt too wide) in paragraph at lines 582--583
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (188.07135pt too wide) in paragraph at lines 583--584
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[24]
+Overfull \hbox (43.53018pt too wide) in paragraph at lines 616--617
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[25] [26]
+<./sdf/secure_multiparty_computation/figures/moda_execution_testbench.png, id=1
+063, 552.56438pt x 308.65312pt>
+File: ./sdf/secure_multiparty_computation/figures/moda_execution_testbench.png 
+Graphic file (type png)
+<use ./sdf/secure_multiparty_computation/figures/moda_execution_testbench.png>
+Package pdftex.def Info: ./sdf/secure_multiparty_computation/figures/moda_execu
+tion_testbench.png  used on input line 682.
+(pdftex.def)             Requested size: 442.65073pt x 199.17627pt.
+<./sdf/secure_multiparty_computation/figures/tinygarble_moda_scd_fail.png, id=1
+064, 551.81157pt x 147.55125pt>
+File: ./sdf/secure_multiparty_computation/figures/tinygarble_moda_scd_fail.png 
+Graphic file (type png)
+<use ./sdf/secure_multiparty_computation/figures/tinygarble_moda_scd_fail.png>
+Package pdftex.def Info: ./sdf/secure_multiparty_computation/figures/tinygarble
+_moda_scd_fail.png  used on input line 691.
+(pdftex.def)             Requested size: 442.67075pt x 113.81293pt.
+ [27 <./sdf/secure_multiparty_computation/figures/moda_execution_testbench.png>
+ <./sdf/secure_multiparty_computation/figures/tinygarble_moda_scd_fail.png>]
+Package biblatex Info: Reference section=0 on input line 699.
+ [28
+
+]))
+\openout2 = `chapter/library.aux'.
+
+ (chapter/library.tex
+Chapter 2.
+(lib/adc/adc.tex [29
+
+
+
+
+]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 40--41
+[]\T1/ppl/m/n/10.95 void setQuan-tiz-er-Sam-pling-Pe-riod(double sPe-riod)  B03
+.setSamplingPeriod(sPeriod);
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+[]\T1/ppl/m/n/10.95 void setQuan-tiz-er-Res-o-lu-tion(double nbits)  B03.setRes
+olution(nbits);
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+[]\T1/ppl/m/n/10.95 void setQuan-tiz-er-Max-Value(double max-value)  B03.setMax
+Value(maxvalue);
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+[]\T1/ppl/m/n/10.95 void setQuan-tiz-er-Min-Value(double min-value)  B03.setMin
+Value(minvalue);
+ []
+
+[30
+
+] [31]) (lib/add/add.tex [32]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+) (lib/arithmetic_encoder/arithmetic_encoder.tex [33
+
+]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 37--39
+[]\T1/ppl/m/n/10.95 void init(const un-signed int& Se-qLen, const un-signed int
+& BitsPer-Symb, const
+ []
+
+[34
+
+]) (lib/arithmetic_decoder/arithmetic_decoder.tex [35]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 37--39
+[]\T1/ppl/m/n/10.95 void init(const un-signed int& Se-qLen, const un-signed int
+& BitsPer-Symb, const
+ []
+
+[36
+
+]) (lib/alice_qkd/alice_qkd.tex [37]
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+\T1/ppl/m/n/10.95 AliceQKD (vec-tor <Sig-nal*> &in-putSig-nals, vec-tor <Sig-na
+l*> &out-putSig-nals) :
+ []
+
+) (lib/alice_qkd2/alice_qkd.tex [38
+
+] [39]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]|\T1/ppl/m/n/10.95 unsigned
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+[]|\T1/ppl/m/n/10.95 Buffer size for most
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+[]|\T1/ppl/m/n/10.95 maximumEC
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+[]|\T1/ppl/m/n/10.95 Buffer size for sig-nals
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 65--66
+\T1/ppl/m/n/10.95 trans-mit large quan-ti-ties
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+[]|\T1/ppl/m/n/10.95 dispBits
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+[]|\T1/ppl/m/n/10.95 Number of bits
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+\T1/ppl/m/n/10.95 trans-mit-ted be-fore
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+\T1/ppl/m/n/10.95 up-dat-ing the vi-sual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]|\T1/ppl/m/n/10.95 reportFile
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]|\T1/ppl/m/n/10.95 valid file
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]|\T1/ppl/m/n/10.95 "alice_
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 72--73
+[]|\T1/ppl/m/n/10.95 Name of the file where
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+[]|\T1/ppl/m/n/10.95 If true, it prints the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+\T1/ppl/m/n/10.95 con-sole in-ter-face in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]|\T1/ppl/m/n/10.95 "running
+ []
+
+
+Underfull \hbox (badness 3386) in paragraph at lines 76--78
+[]|\T1/ppl/m/n/10.95 the URL or IP ad-dress
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 76--78
+\T1/ppl/m/n/10.95 of the re-mote com-puter.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--78
+\T1/ppl/m/n/10.95 Only for the pur-pose
+ []
+
+
+Underfull \hbox (badness 5147) in paragraph at lines 76--78
+\T1/ppl/m/n/10.95 of dis-play-ing it in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
+[]|\T1/ppl/m/n/10.95 photonsPer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+[]|\T1/ppl/m/n/10.95 Average num-ber of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+\T1/ppl/m/n/10.95 pho-tons sent in each
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+\T1/ppl/m/n/10.95 trans-mit-ted pulse.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+\T1/ppl/m/n/10.95 Only for the pur-pose
+ []
+
+
+Underfull \hbox (badness 5147) in paragraph at lines 79--81
+\T1/ppl/m/n/10.95 of dis-play-ing it in the
+ []
+
+[40
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+[]\T1/ppl/m/n/10.95 AliceQKD(initializer_list<Signal *> in-putSig-nals, ini-tia
+l-izer_list<Signal *>
+ []
+
+[41]
+<./lib/alice_qkd2/figures/AliceQKD_blockDiagram.pdf, id=1184, 419.9666pt x 301.
+9691pt>
+File: ./lib/alice_qkd2/figures/AliceQKD_blockDiagram.pdf Graphic file (type pdf
+)
+<use ./lib/alice_qkd2/figures/AliceQKD_blockDiagram.pdf>
+Package pdftex.def Info: ./lib/alice_qkd2/figures/AliceQKD_blockDiagram.pdf  us
+ed on input line 145.
+(pdftex.def)             Requested size: 419.96558pt x 301.96835pt.
+ [42]
+Underfull \hbox (badness 5403) in paragraph at lines 176--188
+[]\T1/ppl/m/n/10.95 The in-com-ing data and ba-sis bi-nary sig-nals are pro-vid
+ed as in-puts to the
+ []
+
+[43 <./lib/alice_qkd2/figures/AliceQKD_blockDiagram.pdf>]
+Underfull \hbox (badness 2790) in paragraph at lines 189--201
+[]\T1/ppl/m/n/10.95 The \T1/ppl/m/it/10.95 Ba-sis-Rec-on-cil-i-a-tion \T1/ppl/m
+/n/10.95 block in Al-ice-QKD is con-fig-ured to re-spond-ing to Bobs
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 189--201
+\T1/ppl/m/n/10.95 the \T1/ppl/m/it/10.95 Mes-sage-Pro-ces-sor-Receiver\T1/ppl/m
+/n/10.95 . When Bob has enough sam-ples, he should send a
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 189--201
+\T1/ppl/m/n/10.95 mes-sage con-tain-ing the ba-sis he used to mea-sure the re-c
+eived data. This mes-sage
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 189--201
+\T1/ppl/m/n/10.95 is re-ceived, iden-ti-fied by its type \T1/pcr/m/n/10.95 Basi
+sReconciliation1\T1/ppl/m/n/10.95 , and in-ter-preted at the
+ []
+
+[44]) (lib/AliceQuantumTx/aliceQTx.tex [45]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+[46
+
+]
+
+pdfTeX warning: pdflatex.exe (file ./lib/AliceQuantumTx/figures/AliceQTx_diagra
+m.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allow
+ed
+<./lib/AliceQuantumTx/figures/AliceQTx_diagram.pdf, id=1240, 597.36174pt x 845.
+03705pt>
+File: ./lib/AliceQuantumTx/figures/AliceQTx_diagram.pdf Graphic file (type pdf)
+
+<use ./lib/AliceQuantumTx/figures/AliceQTx_diagram.pdf>
+Package pdftex.def Info: ./lib/AliceQuantumTx/figures/AliceQTx_diagram.pdf  use
+d on input line 58.
+(pdftex.def)             Requested size: 442.65375pt x 323.21227pt.
+[47 <./lib/AliceQuantumTx/figures/AliceQTx_diagram.pdf>]
+Underfull \hbox (badness 1014) in paragraph at lines 77--78
+[]\T1/ppl/m/n/10.95 A triple bit stream bi-nary sig-nal out-puts the mul-ti-ple
+xer, where the se-quence is
+ []
+
+<./lib/AliceQuantumTx/figures/constellation.pdf, id=1270, 963.6pt x 542.025pt>
+File: ./lib/AliceQuantumTx/figures/constellation.pdf Graphic file (type pdf)
+<use ./lib/AliceQuantumTx/figures/constellation.pdf>
+Package pdftex.def Info: ./lib/AliceQuantumTx/figures/constellation.pdf  used o
+n input line 81.
+(pdftex.def)             Requested size: 442.65375pt x 243.10303pt.
+[48 <./lib/AliceQuantumTx/figures/constellation.pdf>])
+(lib/ascii_source/ascii_source.tex [49]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+
+Overfull \hbox (41.50429pt too wide) in paragraph at lines 30--39
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 45--46
+\T1/ppl/m/n/10.95 AsciiSource(vector$\OMS/cmsy/m/n/10.95 h$\T1/ppl/m/n/10.95 Si
+gnal *$\OMS/cmsy/m/n/10.95 i$ \T1/ppl/m/n/10.95 &In-put-Sig, vector$\OMS/cmsy/m
+/n/10.95 h$\T1/ppl/m/n/10.95 Signal *$\OMS/cmsy/m/n/10.95 i$ \T1/ppl/m/n/10.95 
+&Out-put-Sig) :Block(InputSig,
+ []
+
+[50
+
+]) (lib/ascii_to_binary/ascii_to_binary.tex [51]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+<./lib/ascii_to_binary/figures/ascii_signal.png, id=1328, 328.8285pt x 125.8702
+5pt>
+File: ./lib/ascii_to_binary/figures/ascii_signal.png Graphic file (type png)
+<use ./lib/ascii_to_binary/figures/ascii_signal.png>
+Package pdftex.def Info: ./lib/ascii_to_binary/figures/ascii_signal.png  used o
+n input line 29.
+(pdftex.def)             Requested size: 309.85626pt x 118.6119pt.
+<./lib/ascii_to_binary/figures/binary_signal.png, id=1329, 377.0085pt x 276.432
+75pt>
+File: ./lib/ascii_to_binary/figures/binary_signal.png Graphic file (type png)
+<use ./lib/ascii_to_binary/figures/binary_signal.png>
+Package pdftex.def Info: ./lib/ascii_to_binary/figures/binary_signal.png  used 
+on input line 35.
+(pdftex.def)             Requested size: 221.32687pt x 162.28404pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[52
+
+ <./lib/ascii_to_binary/figures/ascii_signal.png>])
+(lib/balanced_beam_splitter/balanced_beam_splitter.tex [53 <./lib/ascii_to_bina
+ry/figures/binary_signal.png>]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+) (lib/bit_error_rate/bit_error_rate.tex [54
+
+]
+\blx@maxsegment@2=\count416
+\blx@sectionciteorder@2=\count417
+Package biblatex Info: Reference section=2 on input line 5.
+Package biblatex Info: Setting label 'refsection:2' on input line 5.
+
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 8--17
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]|\T1/ppl/b/n/10.95 Default
+ []
+
+
+Overfull \hbox (6.14624pt too wide) in paragraph at lines 48--48
+[]|\T1/ppl/m/n/10.95 lMinorant| 
+ []
+
+[55
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+[]\T1/ppl/b/n/10.95 BitErrorRate\T1/ppl/m/n/10.95 (vector<Signal *> In-put-Sig,
+ vec-tor<Signal *> Out-put-Sig)
+ []
+
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+[57] [58] [59] [60]
+Underfull \hbox (badness 1112) in paragraph at lines 349--349
+[]\T1/ppl/m/n/10.95 Álvaro J Almeida et al. ``Con-tin-u-ous Con-trol of Ran-dom
+ Po-lar-iza-tion Ro-ta-tions
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 349--349
+\T1/ppl/m/n/10.95 for Quan-tum Com-mu-ni-ca-tions''. In: \T1/ppl/m/it/10.95 Jou
+r-nal of Light-wave Tech-nol-ogy \T1/ppl/m/n/10.95 34.16 (2016),
+ []
+
+Package biblatex Info: Reference section=0 on input line 350.
+[61
+
+]) (lib/binary_source/binary_source.tex
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--12
+[][] 
+ []
+
+
+Overfull \hbox (19.31209pt too wide) in paragraph at lines 22--23
+[]\T1/ppl/m/n/10.95 DeterministicAppendZeros 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+[]|\T1/ppl/m/n/10.95 Random, Pseu-do-Ran-dom,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+\T1/ppl/m/n/10.95 De-ter-min-is-tic-Cyclic,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+\T1/ppl/m/n/10.95 De-ter-min-is-t-i-cAp-pendZe-ros,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+\T1/ppl/m/n/10.95 Asci-iFileAp-pendZe-ros,
+ []
+
+
+Overfull \hbox (14.54536pt too wide) in paragraph at lines 62--73
+ [][] 
+ []
+
+[62
+
+
+]
+Underfull \hbox (badness 2635) in paragraph at lines 114--115
+ []\T1/ppl/b/n/10.95 Random Mode \T1/ppl/m/n/10.95 Gen-er-ates a 0 with prob-a-
+bil-ity \T1/ppl/m/it/10.95 prob-a-bil-i-ty-OfZero \T1/ppl/m/n/10.95 and a 1 wit
+h
+ []
+
+[63]
+
+pdfTeX warning: pdflatex.exe (file ./lib/binary_source/figures/BinarySequenceN3
+.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
+d
+<./lib/binary_source/figures/BinarySequenceN3.pdf, id=1434, 963.6pt x 542.025pt
+>
+File: ./lib/binary_source/figures/BinarySequenceN3.pdf Graphic file (type pdf)
+<use ./lib/binary_source/figures/BinarySequenceN3.pdf>
+Package pdftex.def Info: ./lib/binary_source/figures/BinarySequenceN3.pdf  used
+ on input line 149.
+(pdftex.def)             Requested size: 442.65375pt x 248.98715pt.
+[64 <./lib/binary_source/figures/BinarySequenceN3.pdf>]
+<./lib/binary_source/figures/BinarySource_output.pdf, id=1460, 597.23125pt x 84
+5.1575pt>
+File: ./lib/binary_source/figures/BinarySource_output.pdf Graphic file (type pd
+f)
+<use ./lib/binary_source/figures/BinarySource_output.pdf>
+Package pdftex.def Info: ./lib/binary_source/figures/BinarySource_output.pdf  u
+sed on input line 163.
+(pdftex.def)             Requested size: 442.65375pt x 259.17603pt.
+)
+(lib/binary_to_ascii/binary_to_ascii.tex [65 <./lib/binary_source/figures/Binar
+ySource_output.pdf>]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+File: ./lib/ascii_to_binary/figures/binary_signal.png Graphic file (type png)
+<use ./lib/ascii_to_binary/figures/binary_signal.png>
+Package pdftex.def Info: ./lib/ascii_to_binary/figures/binary_signal.png  used 
+on input line 29.
+(pdftex.def)             Requested size: 221.32687pt x 162.28404pt.
+File: ./lib/ascii_to_binary/figures/ascii_signal.png Graphic file (type png)
+<use ./lib/ascii_to_binary/figures/ascii_signal.png>
+Package pdftex.def Info: ./lib/ascii_to_binary/figures/ascii_signal.png  used o
+n input line 35.
+(pdftex.def)             Requested size: 309.85626pt x 118.6119pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[66
+
+]) (lib/bob_qkd/bob_qkd.tex [67]) (lib/BobQuantumRx/bobQRx.tex [68
+
+]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+
+
+pdfTeX warning: pdflatex.exe (file ./lib/BobQuantumRx/figures/BobQRx_diagram.pd
+f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<./lib/BobQuantumRx/figures/BobQRx_diagram.pdf, id=1508, 845.03705pt x 597.3617
+4pt>
+File: ./lib/BobQuantumRx/figures/BobQRx_diagram.pdf Graphic file (type pdf)
+<use ./lib/BobQuantumRx/figures/BobQRx_diagram.pdf>
+Package pdftex.def Info: ./lib/BobQuantumRx/figures/BobQRx_diagram.pdf  used on
+ input line 51.
+(pdftex.def)             Requested size: 442.65375pt x 200.4294pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[69
+
+]
+Underfull \hbox (badness 2452) in paragraph at lines 59--60
+[]\T1/ppl/m/n/10.95 Apart from the de-tec-tion scheme, this block also com-pris
+es an ac-tive ran-dom
+ []
+
+) (lib/decider/decider.tex [70 <./lib/BobQuantumRx/figures/BobQRx_diagram.pdf>]
+[71]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+) (lib/clock/clock.tex [72
+
+]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--10
+[][] 
+ []
+
+[73
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+ []\T1/ppl/b/n/10.95 Type: \T1/ppl/m/n/10.95 Se-quence of Dirac's delta func-ti
+ons.
+ []
+
+) (lib/clock_20171219/clock_20171219.tex [74]
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+ []\T1/ppl/b/n/10.95 Type: \T1/ppl/m/n/10.95 Se-quence of Dirac's delta func-ti
+ons.
+ []
+
+<./lib/clock_20171219/figures/clock_withoutpha.png, id=1584, 421.575pt x 314.67
+563pt>
+File: ./lib/clock_20171219/figures/clock_withoutpha.png Graphic file (type png)
+
+<use ./lib/clock_20171219/figures/clock_withoutpha.png>
+Package pdftex.def Info: ./lib/clock_20171219/figures/clock_withoutpha.png  use
+d on input line 51.
+(pdftex.def)             Requested size: 442.65375pt x 330.41435pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./lib/clock_20171219/figures/clockPhased.png, id=1585, 421.575pt x 314.67563pt
+>
+File: ./lib/clock_20171219/figures/clockPhased.png Graphic file (type png)
+<use ./lib/clock_20171219/figures/clockPhased.png>
+Package pdftex.def Info: ./lib/clock_20171219/figures/clockPhased.png  used on 
+input line 57.
+(pdftex.def)             Requested size: 442.65375pt x 330.41435pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (lib/complex_to_real/complex_to_real.tex [75
+
+] [76 <./lib/clock_20171219/figures/clock_withoutpha.png (PNG copy)>] [77 <./li
+b/clock_20171219/figures/clockPhased.png (PNG copy)>]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+[]\T1/ppl/m/n/10.95 ComplexToReal(vector<Signal *> &In-put-Sig, vec-tor<Signal 
+*> &Out-put-Sig)
+ []
+
+[78
+
+]) (lib/coupler_2_by_2/coupler_2_by_2.tex [79]
+<./lib/coupler_2_by_2/figures/coupler_2_by_2.pdf, id=1629, 963.6pt x 542.025pt>
+
+File: ./lib/coupler_2_by_2/figures/coupler_2_by_2.pdf Graphic file (type pdf)
+<use ./lib/coupler_2_by_2/figures/coupler_2_by_2.pdf>
+Package pdftex.def Info: ./lib/coupler_2_by_2/figures/coupler_2_by_2.pdf  used 
+on input line 29.
+(pdftex.def)             Requested size: 442.65375pt x 248.98715pt.
+)
+(lib/carrier_phase_estimation/carrier_phase_estimation.tex [80
+
+ <./lib/coupler_2_by_2/figures/coupler_2_by_2.pdf>]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+[]\T1/ppl/m/n/10.95 CarrierPhaseCompensation(vector$\OML/cmm/m/it/10.95 <$\T1/p
+pl/m/n/10.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95 &In-put-Sig, vec
+tor$\OML/cmm/m/it/10.95 <$\T1/ppl/m/n/10.95 Signal *$\OML/cmm/m/it/10.95 >$
+ []
+
+[81
+
+]
+
+pdfTeX warning: pdflatex.exe (file ./lib/carrier_phase_estimation/figures/VV_ph
+aseEstimation.pdf): PDF inclusion: found PDF version <1.6>, but at most version
+ <1.5> allowed
+<./lib/carrier_phase_estimation/figures/VV_phaseEstimation.pdf, id=1659, 442.49
+516pt x 102.55113pt>
+File: ./lib/carrier_phase_estimation/figures/VV_phaseEstimation.pdf Graphic fil
+e (type pdf)
+<use ./lib/carrier_phase_estimation/figures/VV_phaseEstimation.pdf>
+Package pdftex.def Info: ./lib/carrier_phase_estimation/figures/VV_phaseEstimat
+ion.pdf  used on input line 85.
+(pdftex.def)             Requested size: 442.65375pt x 102.5931pt.
+[82 <./lib/carrier_phase_estimation/figures/VV_phaseEstimation.pdf, page is rot
+ated 90 degrees>]
+
+pdfTeX warning: pdflatex.exe (file ./lib/carrier_phase_estimation/figures/bps_d
+iagram.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> 
+allowed
+<./lib/carrier_phase_estimation/figures/bps_diagram.pdf, id=1716, 309.9881pt x 
+219.03601pt>
+File: ./lib/carrier_phase_estimation/figures/bps_diagram.pdf Graphic file (type
+ pdf)
+<use ./lib/carrier_phase_estimation/figures/bps_diagram.pdf>
+Package pdftex.def Info: ./lib/carrier_phase_estimation/figures/bps_diagram.pdf
+  used on input line 94.
+(pdftex.def)             Requested size: 341.43306pt x 241.26788pt.
+[83 <./lib/carrier_phase_estimation/figures/bps_diagram.pdf, page is rotated 90
+ degrees>]) (lib/decision_circuit/decision_circuit.tex [84]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 45--46
+\T1/ppl/m/n/10.95 sym-bol rel-a-tively to the con-stel-la-tion map. It per-form
+ the sym-bol de-ci-sion for the
+ []
+
+[85
+
+]) (lib/decoder/decoder.tex [86]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--10
+[][] 
+ []
+
+
+Overfull \hbox (44.37355pt too wide) in paragraph at lines 25--31
+ [][] 
+ []
+
+[87
+
+]
+<./lib/decoder/figures/MQAM_decoder_output.pdf, id=1827, 597.23125pt x 845.1575
+pt>
+File: ./lib/decoder/figures/MQAM_decoder_output.pdf Graphic file (type pdf)
+<use ./lib/decoder/figures/MQAM_decoder_output.pdf>
+Package pdftex.def Info: ./lib/decoder/figures/MQAM_decoder_output.pdf  used on
+ input line 79.
+(pdftex.def)             Requested size: 442.65375pt x 259.17603pt.
+) (lib/discrete_to_continuous_time/discrete_to_continuous_time.tex [88 <./lib/d
+ecoder/figures/MQAM_decoder_output.pdf>]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--10
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+\T1/ppl/m/n/10.95 DiscreteToContinuousTime(vector$\OML/cmm/m/it/10.95 <$\T1/ppl
+/m/n/10.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95 &in-putSig-nals, v
+ector$\OML/cmm/m/it/10.95 <$\T1/ppl/m/n/10.95 Signal *$\OML/cmm/m/it/10.95 >$
+ []
+
+[89
+
+]
+<./lib/discrete_to_continuous_time/figures/MQAM_discrete_to_continuous_time_out
+put.pdf, id=1862, 597.23125pt x 845.1575pt>
+File: ./lib/discrete_to_continuous_time/figures/MQAM_discrete_to_continuous_tim
+e_output.pdf Graphic file (type pdf)
+<use ./lib/discrete_to_continuous_time/figures/MQAM_discrete_to_continuous_time
+_output.pdf>
+Package pdftex.def Info: ./lib/discrete_to_continuous_time/figures/MQAM_discret
+e_to_continuous_time_output.pdf  used on input line 64.
+(pdftex.def)             Requested size: 442.65375pt x 259.17603pt.
+) [90 <./lib/discrete_to_continuous_time/figures/MQAM_discrete_to_continuous_ti
+me_output.pdf>] (lib/down_sampling/down_sampling.tex
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+[]\T1/ppl/m/n/10.95 DownSampling(vector$\OML/cmm/m/it/10.95 <$\T1/ppl/m/n/10.95
+ Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95 &In-put-Sig, vector$\OML/cmm
+/m/it/10.95 <$\T1/ppl/m/n/10.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.
+95 &Out-put-Sig)
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 39--40
+[]\T1/ppl/m/n/10.95 void set-Sam-pling-Fac-tor(unsigned int dSam-pling-fac-tor)
+  down-Sam-pling-Fac-tor =
+ []
+
+
+Underfull \hbox (badness 6396) in paragraph at lines 45--46
+\T1/ppl/m/n/10.95 This block per-form de-creases the sam-ple rate of in-put sig
+-nal by a fac-tor of
+ []
+
+[91
+
+]) (lib/dsp/dsp.tex [92]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+[93
+
+]) (lib/edfa/edfa.tex [94]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--10
+[][] 
+ []
+
+<./lib/edfa/figures/edfa_simple.pdf, id=1917, 88.28479pt x 29.05533pt>
+File: ./lib/edfa/figures/edfa_simple.pdf Graphic file (type pdf)
+<use ./lib/edfa/figures/edfa_simple.pdf>
+Package pdftex.def Info: ./lib/edfa/figures/edfa_simple.pdf  used on input line
+ 18.
+(pdftex.def)             Requested size: 221.32687pt x 72.84335pt.
+<./lib/edfa/figures/edfa_blocks.pdf, id=1919, 193.47874pt x 77.6499pt>
+File: ./lib/edfa/figures/edfa_blocks.pdf Graphic file (type pdf)
+<use ./lib/edfa/figures/edfa_blocks.pdf>
+Package pdftex.def Info: ./lib/edfa/figures/edfa_blocks.pdf  used on input line
+ 38.
+(pdftex.def)             Requested size: 309.85626pt x 124.362pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[95
+
+ <./lib/edfa/figures/edfa_simple.pdf> <./lib/edfa/figures/edfa_blocks.pdf
+
+pdfTeX warning: pdflatex.exe (file ./lib/edfa/figures/edfa_blocks.pdf): PDF inc
+lusion: multiple pdfs with page group included in a single page
+>]) (lib/electrical_signal_generator/electrical_signal_generator.tex [96]
+[97]
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+[]\T1/ppl/m/n/10.95 ElectricalSignalFunction sig-nal-Func-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+[]\T1/ppl/m/n/10.95 samplingPeriod{}
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+[]\T1/ppl/m/n/10.95 symbolPeriod{}
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 50--51
+ []\T1/ppl/b/n/10.95 Continuous Wave \T1/ppl/m/n/10.95 Out-puts a time con-tin-
+u-ous am-pli-tude con-tin-u-ous sig-nal with
+ []
+
+[98
+
+]) (lib/entropy_estimator/entropy_estimator.tex [99]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+[100
+
+]
+<./lib/entropy_estimator/figures/BinEntropyResults.png, id=2023, 421.575pt x 31
+6.18124pt>
+File: ./lib/entropy_estimator/figures/BinEntropyResults.png Graphic file (type 
+png)
+<use ./lib/entropy_estimator/figures/BinEntropyResults.png>
+Package pdftex.def Info: ./lib/entropy_estimator/figures/BinEntropyResults.png 
+ used on input line 74.
+(pdftex.def)             Requested size: 316.18047pt x 237.13535pt.
+ [101
+
+]) (lib/fork/fork.tex [102 <./lib/entropy_estimator/figures/BinEntropyResults.p
+ng (PNG copy)>]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--29
+
+ []
+
+<./lib/fork/figures/fork.pdf, id=2045, 963.6pt x 542.025pt>
+File: ./lib/fork/figures/fork.pdf Graphic file (type pdf)
+<use ./lib/fork/figures/fork.pdf>
+Package pdftex.def Info: ./lib/fork/figures/fork.pdf  used on input line 36.
+(pdftex.def)             Requested size: 265.5863pt x 128.03754pt.
+) (lib/gaussian_source/gaussian_source.tex [103
+
+ <./lib/fork/figures/fork.pdf>]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--10
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+[]\T1/ppl/m/n/10.95 GaussianSource(vector$\OML/cmm/m/it/10.95 <$\T1/ppl/m/n/10.
+95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95 &In-put-Sig, vector$\OML/c
+mm/m/it/10.95 <$\T1/ppl/m/n/10.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/1
+0.95 &Out-put-Sig)
+ []
+
+[104
+
+]) (lib/hamming_decoder/hamming_decoder.tex [105]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+) (lib/hamming_encoder/hamming_encoder.tex [106
+
+]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+) (lib/homodyne_receiver/homodyne_receiver.tex [107
+
+]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--10
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+<./lib/homodyne_receiver/figures/MQAM_receiver_block_diagram_simple.png, id=210
+5, 1139.00531pt x 149.8097pt>
+File: ./lib/homodyne_receiver/figures/MQAM_receiver_block_diagram_simple.png Gr
+aphic file (type png)
+<use ./lib/homodyne_receiver/figures/MQAM_receiver_block_diagram_simple.png>
+Package pdftex.def Info: ./lib/homodyne_receiver/figures/MQAM_receiver_block_di
+agram_simple.png  used on input line 19.
+(pdftex.def)             Requested size: 354.12434pt x 46.57538pt.
+<./lib/homodyne_receiver/figures/MQAM_receiver_block_diagram_20180206.png, id=2
+108, 1501.2888pt x 438.438pt>
+File: ./lib/homodyne_receiver/figures/MQAM_receiver_block_diagram_20180206.png 
+Graphic file (type png)
+<use ./lib/homodyne_receiver/figures/MQAM_receiver_block_diagram_20180206.png>
+Package pdftex.def Info: ./lib/homodyne_receiver/figures/MQAM_receiver_block_di
+agram_20180206.png  used on input line 32.
+(pdftex.def)             Requested size: 442.65375pt x 129.27118pt.
+[108
+
+ <./lib/homodyne_receiver/figures/MQAM_receiver_block_diagram_simple.png> <./li
+b/homodyne_receiver/figures/MQAM_receiver_block_diagram_20180206.png
+
+pdfTeX warning: pdflatex.exe (file ./lib/homodyne_receiver/figures/MQAM_receive
+r_block_diagram_20180206.png): large interlaced PNG might cause out of memory (
+use non-interlaced PNG to fix this)
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]|\T1/ppl/m/n/10.95 Vector of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+\T1/ppl/m/n/10.95 co-or-di-nate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]|\T1/ppl/m/n/10.95 Local os-cil-la-tor
+ []
+
+
+Overfull \hbox (5.54688pt too wide) in paragraph at lines 46--46
+[]|\T1/ppl/m/n/10.95 setLocalOscillatorOpticalPower_dBm| 
+ []
+
+
+Overfull \hbox (5.53398pt too wide) in paragraph at lines 46--46
+[]|\T1/ppl/m/n/10.95 double(t_real)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]|\T1/ppl/m/n/10.95 Any dou-ble greater
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[]|\T1/ppl/m/n/10.95 Local os-cil-la-tor
+ []
+
+
+Overfull \hbox (5.53398pt too wide) in paragraph at lines 47--47
+[]|\T1/ppl/m/n/10.95 double(t_real)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[]|\T1/ppl/m/n/10.95 Any dou-ble greater
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]|\T1/ppl/m/n/10.95 Responsivity of
+ []
+
+
+Overfull \hbox (5.53398pt too wide) in paragraph at lines 48--48
+[]|\T1/ppl/m/n/10.95 double(t_real)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]|\T1/ppl/m/n/10.95 Amplification (of
+ []
+
+
+Overfull \hbox (5.53398pt too wide) in paragraph at lines 49--49
+[]|\T1/ppl/m/n/10.95 double(t_real)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]|\T1/ppl/m/n/10.95 Noise am-pli-tude
+ []
+
+
+Overfull \hbox (5.53398pt too wide) in paragraph at lines 50--50
+[]|\T1/ppl/m/n/10.95 double(t_real)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]|\T1/ppl/m/n/10.95 Real num-ber greater
+ []
+
+
+Overfull \hbox (0.9019pt too wide) in paragraph at lines 51--51
+[]|\T1/ppl/m/n/10.95 int(t_integer)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+[]|\T1/ppl/m/n/10.95 Save in-ter-nal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+[]|\T1/ppl/m/n/10.95 Given by
+ []
+
+
+Overfull \hbox (35.5882pt too wide) in paragraph at lines 53--54
+\T1/ppl/m/it/10.95 sym-bol-Pe-riod\T1/ppl/m/n/10.95 /\T1/ppl/m/it/10.95 samples
+PerSymbol| 
+ []
+
+
+Overfull \hbox (51.20892pt too wide) in paragraph at lines 42--56
+ [] 
+ []
+
+[109]
+Underfull \hbox (badness 1838) in paragraph at lines 64--65
+\T1/ppl/m/n/10.95 HomodyneReceiver(vector$\OML/cmm/m/it/10.95 <$\T1/ppl/m/n/10.
+95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95 &in-putSig-nal, vector$\OM
+L/cmm/m/it/10.95 <$\T1/ppl/m/n/10.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/
+n/10.95 &out-putSig-nal)
+ []
+
+[110]) (lib/huffman_decoder/huffman_decoder.tex [111]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+
+Underfull \hbox (badness 2126) in paragraph at lines 15--28
+\T1/ppl/m/n/10.95 The block ac-cepts one in-put sig-nal, a bi-nary sig-nal with
+ the mes-sage to de-code,
+ []
+
+) (lib/huffman_encoder/huffman_encoder.tex [112
+
+]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 15--17
+\T1/ppl/m/n/10.95 it pro-duces an out-put sig-nal (mes-sage en-coded). Two in-p
+uts are re-quired, the
+ []
+
+) (lib/ideal_amplifier/ideal_amplifier.tex [113
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+[]\T1/ppl/m/n/10.95 IdealAmplifier(vector<Signal *> &In-put-Sig, vec-tor<Signal
+ *> &Out-put-Sig)
+ []
+
+[114
+
+]) (lib/iq_modulator/iq_modulator.tex [115]
+\blx@maxsegment@3=\count418
+\blx@sectionciteorder@3=\count419
+Package biblatex Info: Reference section=3 on input line 4.
+Package biblatex Info: Setting label 'refsection:3' on input line 4.
+
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--12
+[][] 
+ []
+
+
+Overfull \hbox (16.68321pt too wide) in paragraph at lines 18--25
+ [][] 
+ []
+
+[116
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+ []\T1/ppl/b/n/10.95 Type \T1/ppl/m/n/10.95 : Se-quence of im-pulses mod-u-late
+d by the fil-ter
+ []
+
+<./lib/iq_modulator/figures/MQAM_iq_modulator_output.pdf, id=2192, 413.7861pt x
+ 313.8104pt>
+File: ./lib/iq_modulator/figures/MQAM_iq_modulator_output.pdf Graphic file (typ
+e pdf)
+<use ./lib/iq_modulator/figures/MQAM_iq_modulator_output.pdf>
+Package pdftex.def Info: ./lib/iq_modulator/figures/MQAM_iq_modulator_output.pd
+f  used on input line 55.
+(pdftex.def)             Requested size: 442.65204pt x 199.17639pt.
+[117 <./lib/iq_modulator/figures/MQAM_iq_modulator_output.pdf>]
+<./lib/iq_modulator/figures/IQ_modulator_block.pdf, id=2250, 435.62851pt x 291.
+67067pt>
+File: ./lib/iq_modulator/figures/IQ_modulator_block.pdf Graphic file (type pdf)
+
+<use ./lib/iq_modulator/figures/IQ_modulator_block.pdf>
+Package pdftex.def Info: ./lib/iq_modulator/figures/IQ_modulator_block.pdf  use
+d on input line 74.
+(pdftex.def)             Requested size: 331.99176pt x 170.72234pt.
+
+
+Package caption Warning: \label without proper reference on input line 83.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `Phase_Modulator' on page 118 undefined on input line 
+79.
+
+<./lib/iq_modulator/figures/PM.pdf, id=2252, 333.6465pt x 175.857pt>
+File: ./lib/iq_modulator/figures/PM.pdf Graphic file (type pdf)
+<use ./lib/iq_modulator/figures/PM.pdf>
+Package pdftex.def Info: ./lib/iq_modulator/figures/PM.pdf  used on input line 
+82.
+(pdftex.def)             Requested size: 265.60916pt x 142.27165pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package caption Warning: \label without proper reference on input line 94.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `MZM' on page 118 undefined on input line 89.
+
+<./lib/iq_modulator/figures/MZM.pdf, id=2254, 369.7815pt x 219.219pt>
+File: ./lib/iq_modulator/figures/MZM.pdf Graphic file (type pdf)
+<use ./lib/iq_modulator/figures/MZM.pdf>
+Package pdftex.def Info: ./lib/iq_modulator/figures/MZM.pdf  used on input line
+ 93.
+(pdftex.def)             Requested size: 265.61615pt x 142.27322pt.
+[118 <./lib/iq_modulator/figures/IQ_modulator_block.pdf>]
+
+Package caption Warning: \label without proper reference on input line 106.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `IQ_Mach-Zehnder_Modulator' on page 119 undefined on i
+nput line 102.
+
+
+LaTeX Warning: Citation 'NPTEL' on page 119 undefined on input line 102.
+
+<./lib/iq_modulator/figures/IQ_MZM.pdf, id=2275, 715.47299pt x 444.4605pt>
+File: ./lib/iq_modulator/figures/IQ_MZM.pdf Graphic file (type pdf)
+<use ./lib/iq_modulator/figures/IQ_MZM.pdf>
+Package pdftex.def Info: ./lib/iq_modulator/figures/IQ_MZM.pdf  used on input l
+ine 105.
+(pdftex.def)             Requested size: 398.38045pt x 227.62132pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[119 <./lib/iq_modulator/figures/PM.pdf> <./lib/iq_modulator/figures/MZM.pdf
+
+pdfTeX warning: pdflatex.exe (file ./lib/iq_modulator/figures/MZM.pdf): PDF inc
+lusion: multiple pdfs with page group included in a single page
+>]
+<./lib/iq_modulator/figures/Black_Box.pdf, id=2312, 815.6623pt x 472.80408pt>
+File: ./lib/iq_modulator/figures/Black_Box.pdf Graphic file (type pdf)
+<use ./lib/iq_modulator/figures/Black_Box.pdf>
+Package pdftex.def Info: ./lib/iq_modulator/figures/Black_Box.pdf  used on inpu
+t line 116.
+(pdftex.def)             Requested size: 398.38364pt x 227.62152pt.
+ [120 <./lib/iq_modulator/figures/IQ_MZM.pdf> <./lib/iq_modulator/figures/Black
+_Box.pdf>]
+
+LaTeX Warning: Empty bibliography on input line 122.
+
+Package biblatex Info: Reference section=0 on input line 123.
+) (lib/iir_filter/iir_filter.tex
+\blx@maxsegment@4=\count420
+\blx@sectionciteorder@4=\count421
+Package biblatex Info: Reference section=4 on input line 6.
+Package biblatex Info: Setting label 'refsection:4' on input line 6.
+
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 9--14
+[][] 
+ []
+
+
+LaTeX Warning: Citation 'jeruchim06' on page 121 undefined on input line 55.
+
+[121
+
+
+
+]
+
+LaTeX Warning: Empty bibliography on input line 68.
+
+Package biblatex Info: Reference section=0 on input line 69.
+) (lib/ip_tunnel_ms_windows/ip_tunnel_ms_windows.tex
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 7--12
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T1/ppl/m/n/10.95 sent and re-ceived are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]|\T1/ppl/m/n/10.95 Number of tri-als af-ter a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]|\T1/ppl/m/n/10.95 IP Ad-dress of Re-mote
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 36--36
+[]|\T1/ppl/m/n/10.95 Time in-ter-val be-fore try-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+\T1/ppl/m/n/10.95 to con-nect again af-ter a
+ []
+
+
+Overfull \hbox (17.5145pt too wide) in paragraph at lines 28--38
+ [][] 
+ []
+
+[122
+
+
+
+]
+Underfull \hbox (badness 1067) in paragraph at lines 83--84
+[]\T1/ppl/m/n/10.95 bool ip-Tun-nel-Recv-Val-ues(vector <Sig-nal*> out-putS, in
+t pro-cessf, sig-nal_value_type
+ []
+
+<./lib/ip_tunnel_ms_windows/figures/StructureTCPIP4.pdf, id=2366, 441.56969pt x
+ 114.4275pt>
+File: ./lib/ip_tunnel_ms_windows/figures/StructureTCPIP4.pdf Graphic file (type
+ pdf)
+<use ./lib/ip_tunnel_ms_windows/figures/StructureTCPIP4.pdf>
+Package pdftex.def Info: ./lib/ip_tunnel_ms_windows/figures/StructureTCPIP4.pdf
+  used on input line 112.
+(pdftex.def)             Requested size: 442.65375pt x 114.70831pt.
+[123]
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+\T1/ppl/m/n/10.95 Eth-er-net and with VPN. In the folder "sdf"
+ []
+
+[124 <./lib/ip_tunnel_ms_windows/figures/StructureTCPIP4.pdf
+
+pdfTeX warning: pdflatex.exe (file ./lib/ip_tunnel_ms_windows/figures/Structure
+TCPIP4.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcS
+ets', type <array>); ignored.
+>]
+<./lib/ip_tunnel_ms_windows/figures/FluxogramIPTunnel.pdf, id=2393, 510.94888pt
+ x 313.17pt>
+File: ./lib/ip_tunnel_ms_windows/figures/FluxogramIPTunnel.pdf Graphic file (ty
+pe pdf)
+<use ./lib/ip_tunnel_ms_windows/figures/FluxogramIPTunnel.pdf>
+Package pdftex.def Info: ./lib/ip_tunnel_ms_windows/figures/FluxogramIPTunnel.p
+df  used on input line 133.
+(pdftex.def)             Requested size: 510.94763pt x 313.16922pt.
+
+Overfull \hbox (68.29388pt too wide) in paragraph at lines 133--134
+ [][] 
+ []
+
+) (lib/local_oscillator/local_oscillator.tex [125 <./lib/ip_tunnel_ms_windows/f
+igures/FluxogramIPTunnel.pdf
+
+pdfTeX warning: pdflatex.exe (file ./lib/ip_tunnel_ms_windows/figures/Fluxogram
+IPTunnel.pdf): PDF inclusion: invalid other resource which is no dict (key 'Pro
+cSets', type <array>); ignored.
+>]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--12
+[][] 
+ []
+
+
+Overfull \hbox (49.12177pt too wide) in paragraph at lines 20--33
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+[]\T1/ppl/m/n/10.95 LocalOscillator(vector$\OML/cmm/m/it/10.95 <$\T1/ppl/m/n/10
+.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95 &In-put-Sig, vector$\OML/
+cmm/m/it/10.95 <$\T1/ppl/m/n/10.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/
+10.95 &Out-put-Sig)
+ []
+
+[126
+
+]) (lib/local_oscillator/local_oscillator_upgrade.tex [127]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--10
+[][] 
+ []
+
+
+Overfull \hbox (49.12177pt too wide) in paragraph at lines 18--29
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+[]\T1/ppl/m/n/10.95 LocalOscillator(vector$\OML/cmm/m/it/10.95 <$\T1/ppl/m/n/10
+.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95 &In-put-Sig, vector$\OML/
+cmm/m/it/10.95 <$\T1/ppl/m/n/10.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/
+10.95 &Out-put-Sig)
+ []
+
+[128
+
+] [129]) (lib/mutual_information_estimator/mutual_information_estimator.tex [13
+0]
+\blx@maxsegment@5=\count422
+\blx@sectionciteorder@5=\count423
+Package biblatex Info: Reference section=5 on input line 5.
+Package biblatex Info: Setting label 'refsection:5' on input line 5.
+
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 8--12
+[][] 
+ []
+
+[131
+
+]
+Overfull \hbox (13.48405pt too wide) detected at line 66
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+[]\T1/ppl/m/n/10.95 MutualInformationEstimator(vector<Signal *> &In-put-Sig, ve
+c-tor<Signal *>
+ []
+
+[132] [133]
+Package biblatex Info: Reference section=0 on input line 114.
+ [134
+
+]) (lib/m_qam_mapper/m_qam_mapper.tex
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--10
+[][] 
+ []
+
+
+Overfull \hbox (17.3606pt too wide) in paragraph at lines 18--24
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+\T1/ppl/m/n/10.95 MQamMapper(vector$\OML/cmm/m/it/10.95 <$\T1/ppl/m/n/10.95 Sig
+nal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95 &In-put-Sig, vector$\OML/cmm/m/i
+t/10.95 <$\T1/ppl/m/n/10.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95 &
+Out-put-Sig)
+ []
+
+
+
+pdfTeX warning: pdflatex.exe (file ./lib/m_qam_mapper/figures/MQAM_constellatio
+n.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allow
+ed
+<./lib/m_qam_mapper/figures/MQAM_constellation.pdf, id=2490, 963.6pt x 542.025p
+t>
+File: ./lib/m_qam_mapper/figures/MQAM_constellation.pdf Graphic file (type pdf)
+
+<use ./lib/m_qam_mapper/figures/MQAM_constellation.pdf>
+Package pdftex.def Info: ./lib/m_qam_mapper/figures/MQAM_constellation.pdf  use
+d on input line 53.
+(pdftex.def)             Requested size: 442.65375pt x 248.98715pt.
+[135
+
+
+]
+<./lib/m_qam_mapper/figures/MQAM_mapper_output.pdf, id=2503, 597.23125pt x 845.
+1575pt>
+File: ./lib/m_qam_mapper/figures/MQAM_mapper_output.pdf Graphic file (type pdf)
+
+<use ./lib/m_qam_mapper/figures/MQAM_mapper_output.pdf>
+Package pdftex.def Info: ./lib/m_qam_mapper/figures/MQAM_mapper_output.pdf  use
+d on input line 75.
+(pdftex.def)             Requested size: 442.65375pt x 259.17603pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (lib/m_qam_receiver/m_qam_receiver.tex [136 <./lib/m_qam_mapper/figures/MQAM_
+constellation.pdf>] [137 <./lib/m_qam_mapper/figures/MQAM_mapper_output.pdf>]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+<./lib/m_qam_receiver/figures/homodyneRx_simple.pdf, id=2546, 112.25517pt x 41.
+47055pt>
+File: ./lib/m_qam_receiver/figures/homodyneRx_simple.pdf Graphic file (type pdf
+)
+<use ./lib/m_qam_receiver/figures/homodyneRx_simple.pdf>
+Package pdftex.def Info: ./lib/m_qam_receiver/figures/homodyneRx_simple.pdf  us
+ed on input line 22.
+(pdftex.def)             Requested size: 221.32687pt x 81.7683pt.
+
+Overfull \hbox (2.08156pt too wide) in paragraph at lines 50--50
+[]|\T1/ppl/b/n/10.95 Description| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+[]|\T1/ppl/m/n/10.95 Name of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]|\T1/ppl/m/n/10.95 Name
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T1/ppl/m/n/10.95 of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T1/ppl/m/n/10.95 di-rec-tory
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T1/ppl/m/n/10.95 where the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T1/ppl/m/n/10.95 in-ter-nal
+ []
+
+
+Underfull \hbox (badness 4229) in paragraph at lines 53--53
+\T1/ppl/m/n/10.95 sig-nals are
+ []
+
+[138
+
+ <./lib/m_qam_receiver/figures/homodyneRx_simple.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+[]\T1/ppl/b/n/10.95 MQamReceiver\T1/ppl/m/n/10.95 (initializer_list$\OML/cmm/m/
+it/10.95 <$\T1/ppl/m/n/10.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95 
+in-put-Sig, initializer_list$\OML/cmm/m/it/10.95 <$\T1/ppl/m/n/10.95 Signal *$\
+OML/cmm/m/it/10.95 >$
+ []
+
+[139]
+Underfull \hbox (badness 7869) in paragraph at lines 211--212
+[]\T1/ppl/m/n/10.95 void \T1/ppl/b/n/10.95 set-Elec-tri-calSee-Be-gin-ningOfIm-
+pulseRe-sponse \T1/ppl/m/n/10.95 (bool sBe-gin-ningOfIm-pulse
+ []
+
+[140]
+Underfull \hbox (badness 10000) in paragraph at lines 241--243
+[]\T1/ppl/m/n/10.95 void \T1/ppl/b/n/10.95 setMF-See-Be-gin-ningOfIm-pulseRe-sp
+onse \T1/ppl/m/n/10.95 (bool sBe-gin-ningOfIm-pulse
+ []
+
+[141]
+Underfull \hbox (badness 1430) in paragraph at lines 371--372
+\T1/ppl/m/n/10.95 We can see that, on the sim-u-la-tor, the band-width of the T
+I Am-pli-fier only has a
+ []
+
+[142]
+<./lib/m_qam_receiver/figures/simulation_rx.pdf, id=2600, 452.33209pt x 161.079
+91pt>
+File: ./lib/m_qam_receiver/figures/simulation_rx.pdf Graphic file (type pdf)
+<use ./lib/m_qam_receiver/figures/simulation_rx.pdf>
+Package pdftex.def Info: ./lib/m_qam_receiver/figures/simulation_rx.pdf  used o
+n input line 381.
+(pdftex.def)             Requested size: 442.65375pt x 157.63847pt.
+ [143 <./lib/m_qam_receiver/figures/simulation_rx.pdf>])
+(lib/m_qam_transmitter/m_qam_transmitter.tex [144]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--13
+[][] 
+ []
+
+<./lib/m_qam_transmitter/figures/MQAM_transmitter_block_diagram_simple.png, id=
+2643, 727.21687pt x 154.32657pt>
+File: ./lib/m_qam_transmitter/figures/MQAM_transmitter_block_diagram_simple.png
+ Graphic file (type png)
+<use ./lib/m_qam_transmitter/figures/MQAM_transmitter_block_diagram_simple.png>
+
+Package pdftex.def Info: ./lib/m_qam_transmitter/figures/MQAM_transmitter_block
+_diagram_simple.png  used on input line 19.
+(pdftex.def)             Requested size: 265.59494pt x 56.36522pt.
+<./lib/m_qam_transmitter/figures/MQAM_transmitter_block_diagram.png, id=2647, 1
+738.99687pt x 444.15938pt>
+File: ./lib/m_qam_transmitter/figures/MQAM_transmitter_block_diagram.png Graphi
+c file (type png)
+<use ./lib/m_qam_transmitter/figures/MQAM_transmitter_block_diagram.png>
+Package pdftex.def Info: ./lib/m_qam_transmitter/figures/MQAM_transmitter_block
+_diagram.png  used on input line 41.
+(pdftex.def)             Requested size: 442.65375pt x 113.0592pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (2.08156pt too wide) in paragraph at lines 51--51
+[]|\T1/ppl/b/n/10.95 Description| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]|\T1/ppl/m/n/10.95 Name of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\T1/ppl/m/n/10.95 Name
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\T1/ppl/m/n/10.95 of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\T1/ppl/m/n/10.95 di-rec-tory
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\T1/ppl/m/n/10.95 where the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\T1/ppl/m/n/10.95 in-ter-nal
+ []
+
+
+Underfull \hbox (badness 4229) in paragraph at lines 54--54
+\T1/ppl/m/n/10.95 sig-nals are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]|\T1/ppl/b/n/10.95 Default
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 64--67
+[]|\T1/ppl/m/n/10.95 {{1,1}, {-1,1},
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+\T1/ppl/m/n/10.95 the points
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+\T1/ppl/m/n/10.95 of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]|\T1/ppl/m/n/10.95 First time
+ []
+
+
+Underfull \hbox (badness 4193) in paragraph at lines 68--68
+\T1/ppl/m/n/10.95 value on the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]|\T1/ppl/m/n/10.95 Number of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+\T1/ppl/m/n/10.95 sam-ples per
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]|\T1/ppl/m/n/10.95 Temporal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\T1/ppl/m/n/10.95 length of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\T1/ppl/m/n/10.95 the im-pulse
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\T1/ppl/m/n/10.95 re-sponse in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\T1/ppl/m/n/10.95 mul-ti-ples of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+\T1/ppl/m/n/10.95 the sym-bol
+ []
+
+
+Overfull \hbox (3.14711pt too wide) in paragraph at lines 71--71
+[]|\T1/ppl/m/n/10.95 RaisedCosine| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]|\T1/ppl/m/n/10.95 Type of the
+ []
+
+
+Underfull \hbox (badness 6859) in paragraph at lines 71--71
+\T1/ppl/m/n/10.95 shap-ing fil-ter
+ []
+
+
+Underfull \hbox (badness 4699) in paragraph at lines 71--71
+\T1/ppl/m/n/10.95 on the pulse
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 72--72
+[]|\T1/ppl/m/n/10.95 Roll-off fac-tor
+ []
+
+
+Underfull \hbox (badness 3428) in paragraph at lines 73--73
+[]|\T1/ppl/m/n/10.95 Width of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+[]|\T1/ppl/m/n/10.95 When true
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\T1/ppl/m/n/10.95 the fil-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\T1/ppl/m/n/10.95 is pas-sive,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\T1/ppl/m/n/10.95 mean-ing the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\T1/ppl/m/n/10.95 am-pli-tudes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+\T1/ppl/m/n/10.95 are
+ []
+
+
+Overfull \hbox (11.39317pt too wide) in paragraph at lines 60--76
+ [][] 
+ []
+
+[145
+
+ <./lib/m_qam_transmitter/figures/MQAM_transmitter_block_diagram_simple.png>] [
+146 <./lib/m_qam_transmitter/figures/MQAM_transmitter_block_diagram.png>]
+Underfull \hbox (badness 6396) in paragraph at lines 82--83
+[]\T1/ppl/b/n/10.95 MQamTransmitter\T1/ppl/m/n/10.95 (initializer_list$\OML/cmm
+/m/it/10.95 <$\T1/ppl/m/n/10.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.
+95 in-put-Sig, initializer_list$\OML/cmm/m/it/10.95 <$\T1/ppl/m/n/10.95 Signal 
+*$\OML/cmm/m/it/10.95 >$
+ []
+
+[147]
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+[]\T1/ppl/m/n/10.95 void \T1/ppl/b/n/10.95 setIm-pulseRe-spon-se-Time-Length_sy
+mbolPeriods\T1/ppl/m/n/10.95 (int im-pRe-spon-se-Time
+ []
+
+[148] [149] [150]
+<./lib/m_qam_transmitter/figures/constellations_qpsk.png, id=2686, 703.87968pt 
+x 280.04625pt>
+File: ./lib/m_qam_transmitter/figures/constellations_qpsk.png Graphic file (typ
+e png)
+<use ./lib/m_qam_transmitter/figures/constellations_qpsk.png>
+Package pdftex.def Info: ./lib/m_qam_transmitter/figures/constellations_qpsk.pn
+g  used on input line 183.
+(pdftex.def)             Requested size: 442.65375pt x 176.11385pt.
+<./lib/m_qam_transmitter/figures/eye_dgm_rcos.png, id=2687, 346.29375pt x 271.0
+125pt>
+File: ./lib/m_qam_transmitter/figures/eye_dgm_rcos.png Graphic file (type png)
+<use ./lib/m_qam_transmitter/figures/eye_dgm_rcos.png>
+Package pdftex.def Info: ./lib/m_qam_transmitter/figures/eye_dgm_rcos.png  used
+ on input line 198.
+(pdftex.def)             Requested size: 155.83073pt x 121.95448pt.
+<./lib/m_qam_transmitter/figures/eye_dgm_rrcos.png, id=2688, 346.29375pt x 271.
+0125pt>
+File: ./lib/m_qam_transmitter/figures/eye_dgm_rrcos.png Graphic file (type png)
+
+<use ./lib/m_qam_transmitter/figures/eye_dgm_rrcos.png>
+Package pdftex.def Info: ./lib/m_qam_transmitter/figures/eye_dgm_rrcos.png  use
+d on input line 204.
+(pdftex.def)             Requested size: 155.83073pt x 121.95448pt.
+
+Overfull \hbox (44.26807pt too wide) in paragraph at lines 196--208
+ []$[]$$[]$ 
+ []
+
+[151 <./lib/m_qam_transmitter/figures/constellations_qpsk.png (PNG copy)>]
+
+LaTeX Warning: Reference `noise_r_cos' on page 152 undefined on input line 213.
+
+
+<./lib/m_qam_transmitter/figures/eye_dgm_noise_rcos.png, id=2700, 346.29375pt x
+ 271.0125pt>
+File: ./lib/m_qam_transmitter/figures/eye_dgm_noise_rcos.png Graphic file (type
+ png)
+<use ./lib/m_qam_transmitter/figures/eye_dgm_noise_rcos.png>
+Package pdftex.def Info: ./lib/m_qam_transmitter/figures/eye_dgm_noise_rcos.png
+  used on input line 218.
+(pdftex.def)             Requested size: 155.83073pt x 121.95448pt.
+<./lib/m_qam_transmitter/figures/eye_dgm_noise_rrcos.png, id=2701, 346.29375pt 
+x 271.0125pt>
+File: ./lib/m_qam_transmitter/figures/eye_dgm_noise_rrcos.png Graphic file (typ
+e png)
+<use ./lib/m_qam_transmitter/figures/eye_dgm_noise_rrcos.png>
+Package pdftex.def Info: ./lib/m_qam_transmitter/figures/eye_dgm_noise_rrcos.pn
+g  used on input line 224.
+(pdftex.def)             Requested size: 155.83073pt x 121.95448pt.
+
+Overfull \hbox (44.26807pt too wide) in paragraph at lines 216--228
+ []$[]$$[]$ 
+ []
+
+[152 <./lib/m_qam_transmitter/figures/eye_dgm_rcos.png (PNG copy)> <./lib/m_qam
+_transmitter/figures/eye_dgm_rrcos.png (PNG copy)> <./lib/m_qam_transmitter/fig
+ures/eye_dgm_noise_rcos.png (PNG copy)> <./lib/m_qam_transmitter/figures/eye_dg
+m_noise_rrcos.png (PNG copy)>]
+<./lib/m_qam_transmitter/figures/simulation_tx.pdf, id=2709, 352.02472pt x 113.
+58302pt>
+File: ./lib/m_qam_transmitter/figures/simulation_tx.pdf Graphic file (type pdf)
+
+<use ./lib/m_qam_transmitter/figures/simulation_tx.pdf>
+Package pdftex.def Info: ./lib/m_qam_transmitter/figures/simulation_tx.pdf  use
+d on input line 239.
+(pdftex.def)             Requested size: 442.65375pt x 142.83458pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--247
+
+ []
+
+
+Underfull \hbox (badness 1960) in paragraph at lines 260--261
+[]\T1/ppl/m/n/10.95 the de-fault QPSK con-stel-la-tion isn't the same as the on
+e set if you call the
+ []
+
+[153 <./lib/m_qam_transmitter/figures/simulation_tx.pdf>])
+(lib/netxpto/netxpto.tex [154]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--14
+[][] 
+ []
+
+) (lib/alice_qkd/alice_qkd.tex [155
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+\T1/ppl/m/n/10.95 AliceQKD (vec-tor <Sig-nal*> &in-putSig-nals, vec-tor <Sig-na
+l*> &out-putSig-nals) :
+ []
+
+) (lib/polarizer/polarizer.tex [156
+
+] [157]
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+\T1/ppl/m/n/10.95 Polarizer (vec-tor <Sig-nal*> &in-putSig-nals, vec-tor <Sig-n
+al*>&outputSignals) :
+ []
+
+) (lib/probability_estimator/probability_estimator.tex [158
+
+]
+
+LaTeX Warning: Citation 'probabilitySheldon' on page 159 undefined on input lin
+e 22.
+
+[159
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+[]\T1/ppl/m/n/10.95 zscore
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+[]\T1/ppl/m/n/10.95 fileName
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+\T1/ppl/m/n/10.95 ProbabilityEstimator(vector$\OMS/cmsy/m/n/10.95 h$\T1/ppl/m/n
+/10.95 Signal *$\OMS/cmsy/m/n/10.95 i$ \T1/ppl/m/n/10.95 &In-put-Sig, vector$\O
+MS/cmsy/m/n/10.95 h$\T1/ppl/m/n/10.95 Signal *$\OMS/cmsy/m/n/10.95 i$ \T1/ppl/m
+/n/10.95 &Out-put-Sig)
+ []
+
+[160]) (lib/quantum_channel_emulator_dv/quantum_channel_emulator_dv.tex
+[161]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+[]\T1/ppl/m/n/10.95 - Time-Con-tin-u-ousAm-pli-tudeDis-crete-Real sig-nal con-t
+ain-ing the re-sults from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+[]|\T1/ppl/m/n/10.95 Number to sig-nal
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 73--74
+\T1/ppl/m/n/10.95 that both de-tec-tors
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+[]|\T1/ppl/m/n/10.95 Number to sig-nal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+\T1/ppl/m/n/10.95 that no de-tec-tors
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]|\T1/ppl/m/n/10.95 Desired av-er-age
+ []
+
+
+Underfull \hbox (badness 6001) in paragraph at lines 77--77
+\T1/ppl/m/n/10.95 quan-tum bit er-ror
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+[]|\T1/ppl/m/n/10.95 Probability of
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 78--79
+\T1/ppl/m/n/10.95 both the de-tec-tors
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\T1/ppl/m/n/10.95 Random num-ber
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+[]|\T1/ppl/m/n/10.95 Amount of time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+\T1/ppl/m/n/10.95 re-spon-sive af-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+[]|\T1/ppl/m/n/10.95 Efficiency of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+\T1/ppl/m/n/10.95 de-tec-tors re-ceiv-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+[]|\T1/ppl/m/n/10.95 Fiber op-ti-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+\T1/ppl/m/n/10.95 at-ten-u-a-tion in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|\T1/ppl/m/n/10.95 Attenuation by
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+[]|\T1/ppl/m/n/10.95 Statistical av-er-age
+ []
+
+
+Underfull \hbox (badness 5431) in paragraph at lines 89--90
+\T1/ppl/m/n/10.95 of the num-ber of
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 89--90
+\T1/ppl/m/n/10.95 pho-tons per in-put
+ []
+
+
+Overfull \hbox (21.04964pt too wide) in paragraph at lines 70--92
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[162
+
+] [163]
+Underfull \hbox (badness 2653) in paragraph at lines 136--143
+[]\T1/ppl/m/n/10.95 The \T1/ppl/m/it/10.95 on-Dead-time \T1/ppl/m/n/10.95 and \
+T1/ppl/m/it/10.95 elapsed-Dead-time \T1/ppl/m/n/10.95 vari-ables con-trol wheth
+er the de-tec-tors are
+ []
+
+[164]) (lib/bob_qkd/bob_qkd.tex [165]) (lib/eve_qkd/eve_qkd.tex [166
+
+])
+(lib/rotator_linear_polarizer/rotator_linear_polarizer.tex [167
+
+])
+(lib/ms_windows_ip_tunnel/ms_windows_ip_tunnel.tex [168
+
+] [169]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+\T1/ppl/m/n/10.95 sent and re-ceived are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]|\T1/ppl/m/n/10.95 Number of tri-als af-ter a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]|\T1/ppl/m/n/10.95 IP Ad-dress of Re-mote
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 30--30
+[]|\T1/ppl/m/n/10.95 Time in-ter-val be-fore try-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\T1/ppl/m/n/10.95 to con-nect again af-ter a
+ []
+
+
+Overfull \hbox (17.5145pt too wide) in paragraph at lines 22--32
+ [][] 
+ []
+
+[170
+
+]
+<./lib/ms_windows_ip_tunnel/figures/StructureTCPIP4.pdf, id=2910, 470.7186pt x 
+66.2475pt>
+File: ./lib/ms_windows_ip_tunnel/figures/StructureTCPIP4.pdf Graphic file (type
+ pdf)
+<use ./lib/ms_windows_ip_tunnel/figures/StructureTCPIP4.pdf>
+Package pdftex.def Info: ./lib/ms_windows_ip_tunnel/figures/StructureTCPIP4.pdf
+  used on input line 81.
+(pdftex.def)             Requested size: 442.65375pt x 62.30095pt.
+) (lib/mutual_information_estimator/mutual_information_estimator.tex
+[171 <./lib/ms_windows_ip_tunnel/figures/StructureTCPIP4.pdf
+
+pdfTeX warning: pdflatex.exe (file ./lib/ms_windows_ip_tunnel/figures/Structure
+TCPIP4.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcS
+ets', type <array>); ignored.
+>]
+\blx@maxsegment@6=\count424
+\blx@sectionciteorder@6=\count425
+Package biblatex Info: Reference section=6 on input line 5.
+Package biblatex Info: Setting label 'refsection:6' on input line 5.
+
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 8--12
+[][] 
+ []
+
+[172
+
+]
+Overfull \hbox (13.48405pt too wide) detected at line 66
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+[]\T1/ppl/m/n/10.95 MutualInformationEstimator(vector<Signal *> &In-put-Sig, ve
+c-tor<Signal *>
+ []
+
+[173] [174]
+Package biblatex Info: Reference section=0 on input line 114.
+ [175
+
+]) (lib/optical_switch/optical_switch.tex
+Underfull \hbox (badness 7832) in paragraph at lines 14--15
+\T1/ppl/m/n/10.95 OpticalSwitch(vector <Sig-nal*> &in-putSig-nals, vec-tor <Sig
+-nal*> &out-putSig-nals) :
+ []
+
+) (lib/optical_hybrid/optical_hybrid.tex [176
+
+
+]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--10
+[][] 
+ []
+
+<./lib/optical_hybrid/figures/optical_hybrid_block_diagram.png, id=2982, 615.04
+78pt x 196.48407pt>
+File: ./lib/optical_hybrid/figures/optical_hybrid_block_diagram.png Graphic fil
+e (type png)
+<use ./lib/optical_hybrid/figures/optical_hybrid_block_diagram.png>
+Package pdftex.def Info: ./lib/optical_hybrid/figures/optical_hybrid_block_diag
+ram.png  used on input line 15.
+(pdftex.def)             Requested size: 265.59494pt x 84.84926pt.
+
+Overfull \hbox (45.19731pt too wide) in paragraph at lines 23--31
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+[]\T1/ppl/m/n/10.95 OpticalHybrid(vector$\OML/cmm/m/it/10.95 <$\T1/ppl/m/n/10.9
+5 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95 &In-put-Sig, vector$\OML/cm
+m/m/it/10.95 <$\T1/ppl/m/n/10.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10
+.95 &Out-put-Sig)
+ []
+
+[177
+
+ <./lib/optical_hybrid/figures/optical_hybrid_block_diagram.png>])
+(lib/photodiode/photodiode.tex [178]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--10
+[][] 
+ []
+
+<./lib/photodiode/figures/photodiode.png, id=3006, 654.94687pt x 406.51875pt>
+File: ./lib/photodiode/figures/photodiode.png Graphic file (type png)
+<use ./lib/photodiode/figures/photodiode.png>
+Package pdftex.def Info: ./lib/photodiode/figures/photodiode.png  used on input
+ line 16.
+(pdftex.def)             Requested size: 221.32687pt x 137.37094pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+[]\T1/ppl/m/n/10.95 Photodiode(vector$\OML/cmm/m/it/10.95 <$\T1/ppl/m/n/10.95 S
+ignal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95 &In-put-Sig, vector$\OML/cmm/m
+/it/10.95 <$\T1/ppl/m/n/10.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95
+ &Out-put-Sig)
+ []
+
+[179
+
+ <./lib/photodiode/figures/photodiode.png>]
+<./lib/photodiode/figures/MQAM_photodiode_old_output.pdf, id=3015, 597.23125pt 
+x 845.1575pt>
+File: ./lib/photodiode/figures/MQAM_photodiode_old_output.pdf Graphic file (typ
+e pdf)
+<use ./lib/photodiode/figures/MQAM_photodiode_old_output.pdf>
+Package pdftex.def Info: ./lib/photodiode/figures/MQAM_photodiode_old_output.pd
+f  used on input line 60.
+(pdftex.def)             Requested size: 442.65375pt x 259.17603pt.
+)
+(lib/photoelectron_generator/photoelectron_generator.tex [180 <./lib/photodiode
+/figures/MQAM_photodiode_old_output.pdf>] [181]
+\blx@maxsegment@7=\count426
+\blx@sectionciteorder@7=\count427
+Package biblatex Info: Reference section=7 on input line 5.
+Package biblatex Info: Setting label 'refsection:7' on input line 5.
+
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 8--13
+[][] 
+ []
+
+<./lib/photoelectron_generator/figures/photoelectron_generator_scheme.pdf, id=3
+043, 284.52756pt x 56.90552pt>
+File: ./lib/photoelectron_generator/figures/photoelectron_generator_scheme.pdf 
+Graphic file (type pdf)
+<use ./lib/photoelectron_generator/figures/photoelectron_generator_scheme.pdf>
+Package pdftex.def Info: ./lib/photoelectron_generator/figures/photoelectron_ge
+nerator_scheme.pdf  used on input line 22.
+(pdftex.def)             Requested size: 284.52686pt x 56.90536pt.
+[182
+
+ <./lib/photoelectron_generator/figures/photoelectron_generator_scheme.pdf>] [1
+83]
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+ []\T1/ppl/b/n/10.95 Type: \T1/ppl/m/n/10.95 Elec-tri-cal (TimeDis-creteAm-pli-
+tude-Con-tin-u-ous-Real or
+ []
+
+<./lib/photoelectron_generator/figures/scheme_simulation_constant.pdf, id=3075,
+ 426.79132pt x 56.90552pt>
+File: ./lib/photoelectron_generator/figures/scheme_simulation_constant.pdf Grap
+hic file (type pdf)
+<use ./lib/photoelectron_generator/figures/scheme_simulation_constant.pdf>
+Package pdftex.def Info: ./lib/photoelectron_generator/figures/scheme_simulatio
+n_constant.pdf  used on input line 138.
+(pdftex.def)             Requested size: 426.79028pt x 56.90536pt.
+
+Underfull \hbox (badness 1158) in paragraph at lines 142--147
+\T1/ppl/m/n/10.95 power was fixed to a con-stant value. Two power lev-els were 
+tested, $\OML/cmm/m/it/10.95 P \OT1/cmr/m/n/10.95 = 1\OML/cmm/m/it/10.95 W$
+ []
+
+<./lib/photoelectron_generator/figures/plot-constant-1uW.png, id=3077, 682.8009
+3pt x 711.4078pt>
+File: ./lib/photoelectron_generator/figures/plot-constant-1uW.png Graphic file 
+(type png)
+<use ./lib/photoelectron_generator/figures/plot-constant-1uW.png>
+Package pdftex.def Info: ./lib/photoelectron_generator/figures/plot-constant-1u
+W.png  used on input line 151.
+(pdftex.def)             Requested size: 199.19283pt x 207.52962pt.
+<./lib/photoelectron_generator/figures/plot-constant-1nW.png, id=3078, 682.8009
+3pt x 711.4078pt>
+File: ./lib/photoelectron_generator/figures/plot-constant-1nW.png Graphic file 
+(type png)
+<use ./lib/photoelectron_generator/figures/plot-constant-1nW.png>
+Package pdftex.def Info: ./lib/photoelectron_generator/figures/plot-constant-1n
+W.png  used on input line 156.
+(pdftex.def)             Requested size: 199.19283pt x 207.52962pt.
+[184 <./lib/photoelectron_generator/figures/scheme_simulation_constant.pdf>]
+<./lib/photoelectron_generator/figures/scheme_simulation_variable.pdf, id=3101,
+ 426.79132pt x 56.90552pt>
+File: ./lib/photoelectron_generator/figures/scheme_simulation_variable.pdf Grap
+hic file (type pdf)
+<use ./lib/photoelectron_generator/figures/scheme_simulation_variable.pdf>
+Package pdftex.def Info: ./lib/photoelectron_generator/figures/scheme_simulatio
+n_variable.pdf  used on input line 172.
+(pdftex.def)             Requested size: 426.79028pt x 56.90536pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--174
+
+ []
+
+<./lib/photoelectron_generator/figures/plot-variable.png, id=3103, 682.80093pt 
+x 711.4078pt>
+File: ./lib/photoelectron_generator/figures/plot-variable.png Graphic file (typ
+e png)
+<use ./lib/photoelectron_generator/figures/plot-variable.png>
+Package pdftex.def Info: ./lib/photoelectron_generator/figures/plot-variable.pn
+g  used on input line 181.
+(pdftex.def)             Requested size: 199.19283pt x 207.52962pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--184
+\T1/ppl/m/n/10.95 The sim-u-la-tion code is in folder \T1/pcr/m/n/10.95 lib \ph
+otoelectron_generator
+ []
+
+[185 <./lib/photoelectron_generator/figures/plot-constant-1uW.png> <./lib/photo
+electron_generator/figures/plot-constant-1nW.png> <./lib/photoelectron_generato
+r/figures/scheme_simulation_variable.pdf>] [186 <./lib/photoelectron_generator/
+figures/plot-variable.png>]
+Package biblatex Info: Reference section=0 on input line 195.
+ [187
+
+])
+(lib/power_spectral_density_estimator/power_spectral_density_estimator.tex
+\blx@maxsegment@8=\count428
+\blx@sectionciteorder@8=\count429
+Package biblatex Info: Reference section=8 on input line 6.
+Package biblatex Info: Setting label 'refsection:8' on input line 6.
+
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 9--14
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+[]\T1/ppl/m/n/10.95 PowerSpectralDensityEstimator(vector<Signal *> &In-put-Sig,
+ vec-tor<Signal *>
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+[]\T1/ppl/m/n/10.95 void se-tOver-lap-Count(int olp)  over-lap-Count = olp; ove
+r-lap-Per-cent =
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 61--62
+[]\T1/ppl/m/n/10.95 void se-tOver-lap-Per-cent(double olpP)  over-lap-Per-cent 
+= olpP; over-lap-Count =
+ []
+
+[188
+
+
+] [189]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 129.
+
+<./lib/power_spectral_density_estimator/figures/qpskExample.pdf, id=3147, 614.2
+95pt x 794.97pt>
+File: ./lib/power_spectral_density_estimator/figures/qpskExample.pdf Graphic fi
+le (type pdf)
+<use ./lib/power_spectral_density_estimator/figures/qpskExample.pdf>
+Package pdftex.def Info: ./lib/power_spectral_density_estimator/figures/qpskExa
+mple.pdf  used on input line 131.
+(pdftex.def)             Requested size: 309.85626pt x 210.33243pt.
+
+LaTeX Warning: Citation 'jeruchim06' on page 190 undefined on input line 144.
+
+[190 <./lib/power_spectral_density_estimator/figures/qpskExample.pdf>]
+Underfull \hbox (badness 3209) in paragraph at lines 204--209
+[]\T1/ppl/m/n/10.95 The two most com-mon meth-ods are the Bartlett pe-ri-odogra
+m and the Welch
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 204--209
+\T1/ppl/m/n/10.95 pe-ri-odogram. The Bartlett pe-ri-odogram finds the av-er-age
+ of nonover-lap-ping sig-nal
+ []
+
+[191]
+
+LaTeX Warning: Citation 'jeruchim06' on page 192 undefined on input line 211.
+
+
+LaTeX Warning: Citation 'nsapplication255' on page 192 undefined on input line 
+213.
+
+
+LaTeX Warning: Citation 'weisstein18csd' on page 192 undefined on input line 23
+2.
+
+
+Underfull \hbox (badness 7151) in paragraph at lines 261--266
+\T1/ppl/m/n/10.95 The cur-rent im-ple-men-ta-tion for ob-tain-ing con-fi-dence 
+in-ter-vals is sus-cep-ti-ble to
+ []
+
+[192]
+
+LaTeX Warning: Citation 'jeruchim06' on page 193 undefined on input line 279.
+
+[193]
+
+LaTeX Warning: Empty bibliography on input line 289.
+
+Package biblatex Info: Reference section=0 on input line 290.
+) (lib/pulse_shaper/pulse_shaper.tex
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--10
+[][] 
+ []
+
+
+Overfull \hbox (27.67464pt too wide) in paragraph at lines 18--25
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+\T1/ppl/m/n/10.95 PulseShaper(vector$\OML/cmm/m/it/10.95 <$\T1/ppl/m/n/10.95 Si
+gnal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95 &In-put-Sig, vector$\OML/cmm/m/
+it/10.95 <$\T1/ppl/m/n/10.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95 
+Out-put-Sig)
+ []
+
+[194
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+ []\T1/ppl/b/n/10.95 Type \T1/ppl/m/n/10.95 : Se-quence of im-pulses mod-u-late
+d by the fil-ter
+ []
+
+<./lib/pulse_shaper/figures/MQAM_pulse_shaper_output.pdf, id=3241, 597.23125pt 
+x 845.1575pt>
+File: ./lib/pulse_shaper/figures/MQAM_pulse_shaper_output.pdf Graphic file (typ
+e pdf)
+<use ./lib/pulse_shaper/figures/MQAM_pulse_shaper_output.pdf>
+Package pdftex.def Info: ./lib/pulse_shaper/figures/MQAM_pulse_shaper_output.pd
+f  used on input line 77.
+(pdftex.def)             Requested size: 442.65375pt x 259.17603pt.
+) (lib/quantizer/quantizer.tex [195 <./lib/pulse_shaper/figures/MQAM_pulse_shap
+er_output.pdf>]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+[196
+
+] [197]) (lib/resample/resample.tex [198]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--12
+[][] 
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 34--36
+\T1/ppl/m/n/10.95 Resample() ; Resample(vector$\OML/cmm/m/it/10.95 <$\T1/ppl/m/
+n/10.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95 &In-put-Sig, vector$\
+OML/cmm/m/it/10.95 <$\T1/ppl/m/n/10.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/
+m/n/10.95 &Out-put-Sig)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+[]\T1/ppl/m/n/10.95 void set-Sam-pling-Pe-riod(double sPe-riod)  sam-pling-Pe-r
+iod = sPe-riod;  void
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+[]\T1/ppl/m/n/10.95 void setOutRate-Fac-tor(double OUT-sRate)  rFac-tor = OUT-s
+Rate;  dou-ble
+ []
+
+[199
+
+]
+<./lib/resample/figures/FILTER.pdf, id=3296, 614.295pt x 794.97pt>
+File: ./lib/resample/figures/FILTER.pdf Graphic file (type pdf)
+<use ./lib/resample/figures/FILTER.pdf>
+Package pdftex.def Info: ./lib/resample/figures/FILTER.pdf  used on input line 
+72.
+(pdftex.def)             Requested size: 132.79747pt x 208.90689pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]|\T1/ppl/m/n/10.95 LinearInterpolation,
+ []
+
+[200 <./lib/resample/figures/FILTER.pdf>]) (lib/snr_estimator/snr_estimator.tex
+[201]
+\blx@maxsegment@9=\count430
+\blx@sectionciteorder@9=\count431
+Package biblatex Info: Reference section=9 on input line 6.
+Package biblatex Info: Setting label 'refsection:9' on input line 6.
+
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 9--14
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+[]\T1/ppl/m/n/10.95 SNREstimator(vector<Signal *> &In-put-Sig, vec-tor<Signal *
+> &Out-put-Sig)
+ []
+
+[202
+
+] [203]
+
+LaTeX Warning: Citation 'harris12' on page 204 undefined on input line 124.
+
+
+LaTeX Warning: Citation 'xiao10' on page 204 undefined on input line 124.
+
+
+LaTeX Warning: Citation 'kashefi12' on page 204 undefined on input line 124.
+
+
+LaTeX Warning: Citation 'matzner93' on page 204 undefined on input line 125.
+
+
+LaTeX Warning: Citation 'ren05' on page 204 undefined on input line 126.
+
+
+LaTeX Warning: Citation 'harris12' on page 204 undefined on input line 133.
+
+
+LaTeX Warning: Citation 'xiao10' on page 204 undefined on input line 133.
+
+
+LaTeX Warning: Citation 'kashefi12' on page 204 undefined on input line 133.
+
+
+LaTeX Warning: Citation 'john2007digital' on page 204 undefined on input line 1
+37.
+
+
+LaTeX Warning: Citation 'john2007digital' on page 204 undefined on input line 1
+44.
+
+[204]
+
+LaTeX Warning: Citation 'tranter2004principles' on page 205 undefined on input 
+line 164.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--166
+[]\T1/ppl/m/n/10.95 This
+ []
+
+
+LaTeX Warning: Citation 'matzner93' on page 205 undefined on input line 171.
+
+
+LaTeX Warning: Citation 'ren05' on page 205 undefined on input line 210.
+
+[205]
+Underfull \hbox (badness 10000) in paragraph at lines 247--253
+\T1/ppl/m/n/10.95 This block cur-rently only works
+ []
+
+[206]
+
+LaTeX Warning: Empty bibliography on input line 263.
+
+Package biblatex Info: Reference section=0 on input line 264.
+) (lib/sampler/sampler.tex
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--10
+[][] 
+ []
+
+[207
+
+
+
+]
+<./lib/sampler/figures/MQAM_sampler_output.pdf, id=3381, 597.23125pt x 845.1575
+pt>
+File: ./lib/sampler/figures/MQAM_sampler_output.pdf Graphic file (type pdf)
+<use ./lib/sampler/figures/MQAM_sampler_output.pdf>
+Package pdftex.def Info: ./lib/sampler/figures/MQAM_sampler_output.pdf  used on
+ input line 71.
+(pdftex.def)             Requested size: 442.65375pt x 259.17603pt.
+) (lib/snr_photoelectron_generator/snr_photoelectron_generator.tex
+[208 <./lib/sampler/figures/MQAM_sampler_output.pdf>]
+\blx@maxsegment@10=\count432
+\blx@sectionciteorder@10=\count433
+Package biblatex Info: Reference section=10 on input line 3.
+Package biblatex Info: Setting label 'refsection:10' on input line 3.
+
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 8--13
+[][] 
+ []
+
+<./lib/snr_photoelectron_generator/figures/snr_photoelectron_generator_scheme.p
+df, id=3403, 284.52756pt x 56.90552pt>
+File: ./lib/snr_photoelectron_generator/figures/snr_photoelectron_generator_sch
+eme.pdf Graphic file (type pdf)
+<use ./lib/snr_photoelectron_generator/figures/snr_photoelectron_generator_sche
+me.pdf>
+Package pdftex.def Info: ./lib/snr_photoelectron_generator/figures/snr_photoele
+ctron_generator_scheme.pdf  used on input line 21.
+(pdftex.def)             Requested size: 284.52686pt x 56.90536pt.
+[209
+
+ <./lib/snr_photoelectron_generator/figures/snr_photoelectron_generator_scheme.
+pdf>] [210] [211]
+<./lib/snr_photoelectron_generator/figures/scheme-simulation.pdf, id=3452, 426.
+79132pt x 56.90552pt>
+File: ./lib/snr_photoelectron_generator/figures/scheme-simulation.pdf Graphic f
+ile (type pdf)
+<use ./lib/snr_photoelectron_generator/figures/scheme-simulation.pdf>
+Package pdftex.def Info: ./lib/snr_photoelectron_generator/figures/scheme-simul
+ation.pdf  used on input line 157.
+(pdftex.def)             Requested size: 442.65375pt x 59.02142pt.
+<./lib/snr_photoelectron_generator/figures/plot-snr-eff-0_7.png, id=3453, 642.4
+pt x 481.8pt>
+File: ./lib/snr_photoelectron_generator/figures/plot-snr-eff-0_7.png Graphic fi
+le (type png)
+<use ./lib/snr_photoelectron_generator/figures/plot-snr-eff-0_7.png>
+Package pdftex.def Info: ./lib/snr_photoelectron_generator/figures/plot-snr-eff
+-0_7.png  used on input line 169.
+(pdftex.def)             Requested size: 199.19283pt x 149.3932pt.
+<./lib/snr_photoelectron_generator/figures/plot-snr-eff-1.png, id=3454, 642.4pt
+ x 481.8pt>
+File: ./lib/snr_photoelectron_generator/figures/plot-snr-eff-1.png Graphic file
+ (type png)
+<use ./lib/snr_photoelectron_generator/figures/plot-snr-eff-1.png>
+Package pdftex.def Info: ./lib/snr_photoelectron_generator/figures/plot-snr-eff
+-1.png  used on input line 175.
+(pdftex.def)             Requested size: 199.19283pt x 149.3932pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--189
+
+ []
+
+[212 <./lib/snr_photoelectron_generator/figures/scheme-simulation.pdf> <./lib/s
+nr_photoelectron_generator/figures/plot-snr-eff-0_7.png> <./lib/snr_photoelectr
+on_generator/figures/plot-snr-eff-1.png>] [213]
+Package biblatex Info: Reference section=0 on input line 210.
+ [214
+
+]) (lib/sink/sink.tex
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+) (lib/snr_estimator/snr_estimator.tex [215
+
+
+] [216]
+\blx@maxsegment@11=\count434
+\blx@sectionciteorder@11=\count435
+Package biblatex Info: Reference section=11 on input line 6.
+Package biblatex Info: Setting label 'refsection:11' on input line 6.
+
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 9--14
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+[]\T1/ppl/m/n/10.95 SNREstimator(vector<Signal *> &In-put-Sig, vec-tor<Signal *
+> &Out-put-Sig)
+ []
+
+[217
+
+] [218]
+
+LaTeX Warning: Citation 'harris12' on page 219 undefined on input line 124.
+
+
+LaTeX Warning: Citation 'xiao10' on page 219 undefined on input line 124.
+
+
+LaTeX Warning: Citation 'kashefi12' on page 219 undefined on input line 124.
+
+
+LaTeX Warning: Citation 'matzner93' on page 219 undefined on input line 125.
+
+
+LaTeX Warning: Citation 'ren05' on page 219 undefined on input line 126.
+
+
+LaTeX Warning: Citation 'harris12' on page 219 undefined on input line 133.
+
+
+LaTeX Warning: Citation 'xiao10' on page 219 undefined on input line 133.
+
+
+LaTeX Warning: Citation 'kashefi12' on page 219 undefined on input line 133.
+
+
+LaTeX Warning: Citation 'john2007digital' on page 219 undefined on input line 1
+37.
+
+
+LaTeX Warning: Citation 'john2007digital' on page 219 undefined on input line 1
+44.
+
+[219]
+
+LaTeX Warning: Citation 'tranter2004principles' on page 220 undefined on input 
+line 164.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--166
+[]\T1/ppl/m/n/10.95 This
+ []
+
+
+LaTeX Warning: Citation 'matzner93' on page 220 undefined on input line 171.
+
+
+LaTeX Warning: Citation 'ren05' on page 220 undefined on input line 210.
+
+[220]
+Underfull \hbox (badness 10000) in paragraph at lines 247--253
+\T1/ppl/m/n/10.95 This block cur-rently only works
+ []
+
+[221]
+
+LaTeX Warning: Empty bibliography on input line 263.
+
+Package biblatex Info: Reference section=0 on input line 264.
+) (lib/single_photon_receiver/single_photon_receiver.tex
+
+pdfTeX warning: pdflatex.exe (file ./lib/single_photon_receiver/figures/single_
+photon_receiver.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<./lib/single_photon_receiver/figures/single_photon_receiver.pdf, id=3547, 845.
+03705pt x 597.36174pt>
+File: ./lib/single_photon_receiver/figures/single_photon_receiver.pdf Graphic f
+ile (type pdf)
+<use ./lib/single_photon_receiver/figures/single_photon_receiver.pdf>
+Package pdftex.def Info: ./lib/single_photon_receiver/figures/single_photon_rec
+eiver.pdf  used on input line 9.
+(pdftex.def)             Requested size: 442.65375pt x 338.2032pt.
+[222
+
+
+
+ <./lib/single_photon_receiver/figures/single_photon_receiver.pdf>]
+Overfull \hbox (14.50668pt too wide) in paragraph at lines 30--31
+[]|\T1/ppl/m/n/10.95 PulseShaperFilter| 
+ []
+
+
+Overfull \hbox (56.89983pt too wide) in paragraph at lines 26--34
+ [] 
+ []
+
+[223]
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+\T1/ppl/m/n/10.95 SinglePhotonReceiver(vector <Sig-nal*> &in-putSig-nals, vec-t
+or <Sig-nal*>
+ []
+
+[224]) (lib/sop_modulator/sop_modulator.tex [225]
+\blx@maxsegment@12=\count436
+\blx@sectionciteorder@12=\count437
+Package biblatex Info: Reference section=12 on input line 5.
+Package biblatex Info: Setting label 'refsection:12' on input line 5.
+
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 8--13
+[][] 
+ []
+
+
+LaTeX Warning: Citation 'Czegledi16' on page 226 undefined on input line 20.
+
+
+
+pdfTeX warning: pdflatex.exe (file ./lib/sop_modulator/figures/sop.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<./lib/sop_modulator/figures/sop.pdf, id=3595, 597.36174pt x 845.03705pt>
+File: ./lib/sop_modulator/figures/sop.pdf Graphic file (type pdf)
+<use ./lib/sop_modulator/figures/sop.pdf>
+Package pdftex.def Info: ./lib/sop_modulator/figures/sop.pdf  used on input lin
+e 24.
+(pdftex.def)             Requested size: 442.65375pt x 97.87085pt.
+[226
+
+ <./lib/sop_modulator/figures/sop.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+[]|\T1/ppl/b/n/10.95 Accepted
+ []
+
+
+Underfull \hbox (badness 5260) in paragraph at lines 88--88
+[]|\T1/ppl/m/n/10.95 Simulation type that the user
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+[]|\T1/ppl/m/n/10.95 Deterministic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+\T1/ppl/m/n/10.95 SOPModulator(vector <Sig-nal*> &in-putSig-nals, vec-tor <Sig-
+nal*>
+ []
+
+[227] [228] [229]
+
+LaTeX Warning: Empty bibliography on input line 138.
+
+Package biblatex Info: Reference section=0 on input line 139.
+) (lib/source_code_efficiency/source_code_efficiency.tex
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+) (lib/white_noise/white_noise.tex [230
+
+
+
+]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--10
+[][] 
+ []
+
+
+Overfull \hbox (32.2216pt too wide) in paragraph at lines 27--35
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+[]\T1/ppl/m/n/10.95 void set-Nois-eSpec-tralDen-sity(double Spec-tralDen-sity) 
+ spec-tralDen-sity =
+ []
+
+[231
+
+]) (lib/ideal_amplifier/ideal_amplifier.tex [232] [233]
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+[]\T1/ppl/m/n/10.95 IdealAmplifier(vector<Signal *> &In-put-Sig, vec-tor<Signal
+ *> &Out-put-Sig)
+ []
+
+[234
+
+]) (lib/phase_mismatch_compensation/phase_mismatch_compensation.tex
+[235]
+\blx@maxsegment@13=\count438
+\blx@sectionciteorder@13=\count439
+Package biblatex Info: Reference section=13 on input line 5.
+Package biblatex Info: Setting label 'refsection:13' on input line 5.
+
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 8--14
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+[]\T1/ppl/m/n/10.95 PhaseMismatchCompensation(vector<Signal *> &In-put-Sig, vec
+-tor<Signal *>
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+[]\T1/ppl/m/n/10.95 void set-Num-berOf-Sam-ples-ForEs-ti-ma-tion(int nSam-ple-s
+Es-ti-ma-tion) {
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+\T1/ppl/m/n/10.95 num-berOf-Sam-ples-ForEs-ti-ma-tion = nSam-ple-sEs-ti-ma-tion
+;
+ []
+
+
+LaTeX Warning: Citation 'soh15' on page 236 undefined on input line 59.
+
+
+LaTeX Warning: Citation 'qi15' on page 236 undefined on input line 59.
+
+<./lib/phase_mismatch_compensation/figures/novelMethodTimeDependence.pdf, id=37
+01, 184.94292pt x 113.81102pt>
+File: ./lib/phase_mismatch_compensation/figures/novelMethodTimeDependence.pdf G
+raphic file (type pdf)
+<use ./lib/phase_mismatch_compensation/figures/novelMethodTimeDependence.pdf>
+Package pdftex.def Info: ./lib/phase_mismatch_compensation/figures/novelMethodT
+imeDependence.pdf  used on input line 63.
+(pdftex.def)             Requested size: 184.94244pt x 113.81073pt.
+
+Underfull \hbox (badness 3250) in paragraph at lines 64--64
+[]\T1/ppl/m/n/10.95 Figure 2.58: |Rep-re-sen-ta-tive time de-pen-dence of a pi-
+lot as-sisted phase mis-match
+ []
+
+[236
+
+] [237 <./lib/phase_mismatch_compensation/figures/novelMethodTimeDependence.pdf
+>] [238]
+
+LaTeX Warning: Empty bibliography on input line 112.
+
+Package biblatex Info: Reference section=0 on input line 113.
+) (lib/frequency_mismatch_compensation/frequency_mismatch_compensation.tex
+\blx@maxsegment@14=\count440
+\blx@sectionciteorder@14=\count441
+Package biblatex Info: Reference section=14 on input line 5.
+Package biblatex Info: Setting label 'refsection:14' on input line 5.
+
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 8--13
+[][] 
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 31--32
+[]\T1/ppl/m/n/10.95 FrequencyMismatchCompensation(vector<Signal *> &In-put-Sig,
+ vec-tor<Signal *>
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+[]\T1/ppl/m/n/10.95 void set-Num-berOf-Sam-ples-ForEs-ti-ma-tion(int nSam-ple-s
+Es-ti-ma-tion) {
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+\T1/ppl/m/n/10.95 num-berOf-Sam-ples-ForEs-ti-ma-tion = nSam-ple-sEs-ti-ma-tion
+;
+ []
+
+[239
+
+
+
+]
+<./lib/frequency_mismatch_compensation/figures/novelMethodConstellation.pdf, id
+=3739, 284.52756pt x 113.81102pt>
+File: ./lib/frequency_mismatch_compensation/figures/novelMethodConstellation.pd
+f Graphic file (type pdf)
+<use ./lib/frequency_mismatch_compensation/figures/novelMethodConstellation.pdf
+>
+Package pdftex.def Info: ./lib/frequency_mismatch_compensation/figures/novelMet
+hodConstellation.pdf  used on input line 83.
+(pdftex.def)             Requested size: 284.52686pt x 113.81073pt.
+ [240 <./lib/frequency_mismatch_compensation/figures/novelMethodConstellation.p
+df>]
+
+LaTeX Warning: Citation 'zhou11' on page 241 undefined on input line 117.
+
+
+LaTeX Warning: Citation 'selmi09' on page 241 undefined on input line 121.
+
+[241]
+
+LaTeX Warning: Empty bibliography on input line 126.
+
+Package biblatex Info: Reference section=0 on input line 127.
+) (lib/cloner/cloner.tex
+\blx@maxsegment@15=\count442
+\blx@sectionciteorder@15=\count443
+Package biblatex Info: Reference section=15 on input line 5.
+Package biblatex Info: Setting label 'refsection:15' on input line 5.
+
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 8--13
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+[]\T1/ppl/m/n/10.95 Cloner(vector<Signal *> &In-put-Sig, vec-tor<Signal *> &Out
+-put-Sig)
+ []
+
+[242
+
+
+
+]
+
+LaTeX Warning: Empty bibliography on input line 51.
+
+Package biblatex Info: Reference section=0 on input line 52.
+) (lib/error_vector_magnitude/error_vector_magnitude.tex
+\blx@maxsegment@16=\count444
+\blx@sectionciteorder@16=\count445
+Package biblatex Info: Reference section=16 on input line 5.
+Package biblatex Info: Setting label 'refsection:16' on input line 5.
+
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 8--13
+[][] 
+ []
+
+[243
+
+
+
+]
+<./lib/error_vector_magnitude/figures/evm.pdf, id=3782, 142.26378pt x 142.26378
+pt>
+File: ./lib/error_vector_magnitude/figures/evm.pdf Graphic file (type pdf)
+<use ./lib/error_vector_magnitude/figures/evm.pdf>
+Package pdftex.def Info: ./lib/error_vector_magnitude/figures/evm.pdf  used on 
+input line 70.
+(pdftex.def)             Requested size: 142.26343pt x 142.26343pt.
+ [244 <./lib/error_vector_magnitude/figures/evm.pdf>]
+
+LaTeX Warning: Empty bibliography on input line 78.
+
+Package biblatex Info: Reference section=0 on input line 79.
+) (lib/load_ascii/load_ascii.tex
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[]|\T1/ppl/m/n/10.95 CommaSeperatedValues,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]|\T1/ppl/m/n/10.95 BinaryValue, Re-al-Value,
+ []
+
+
+Overfull \hbox (74.11327pt too wide) in paragraph at lines 19--28
+ [][] 
+ []
+
+[245
+
+
+
+]) (lib/load_signal/load_signal.tex [246]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--12
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+[]\T1/ppl/m/n/10.95 LoadSignal(vector$\OML/cmm/m/it/10.95 <$\T1/ppl/m/n/10.95 S
+ignal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95 &In-put-Sig, vector$\OML/cmm/m
+/it/10.95 <$\T1/ppl/m/n/10.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95
+ &Out-put-Sig)
+ []
+
+[247
+
+]) (lib/matched_filter/matched_filter.tex [248]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+) (lib/timing_deskew/timing_deskew.tex [249
+
+]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+<./lib/timing_deskew/figures/diagramDSP_DS.pdf, id=3833, 372.73111pt x 105.2751
+9pt>
+File: ./lib/timing_deskew/figures/diagramDSP_DS.pdf Graphic file (type pdf)
+<use ./lib/timing_deskew/figures/diagramDSP_DS.pdf>
+Package pdftex.def Info: ./lib/timing_deskew/figures/diagramDSP_DS.pdf  used on
+ input line 45.
+(pdftex.def)             Requested size: 372.73018pt x 105.27492pt.
+<./lib/timing_deskew/figures/diagramDSP_DL.pdf, id=3835, 349.96889pt x 42.67914
+pt>
+File: ./lib/timing_deskew/figures/diagramDSP_DL.pdf Graphic file (type pdf)
+<use ./lib/timing_deskew/figures/diagramDSP_DL.pdf>
+Package pdftex.def Info: ./lib/timing_deskew/figures/diagramDSP_DL.pdf  used on
+ input line 54.
+(pdftex.def)             Requested size: 349.96802pt x 42.67902pt.
+[250
+
+ <./lib/timing_deskew/figures/diagramDSP_DS.pdf>])
+(lib/dc_component_removal/dc_component_removal.tex [251 <./lib/timing_deskew/fi
+gures/diagramDSP_DL.pdf>]
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 6--11
+[][] 
+ []
+
+
+Underfull \hbox (badness 3354) in paragraph at lines 22--23
+\T1/ppl/m/n/10.95 DCComponentRemoval(initializer_list$\OML/cmm/m/it/10.95 <$\T1
+/ppl/m/n/10.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95 &In-put-Sig, i
+nitializer_list$\OML/cmm/m/it/10.95 <$\T1/ppl/m/n/10.95 Signal *$\OML/cmm/m/it/
+10.95 >$
+ []
+
+
+LaTeX Warning: Reference `fig:S4' on page 252 undefined on input line 35.
+
+<./lib/dc_component_removal/figures/S4EXAGERATED.pdf, id=3915, 614.295pt x 794.
+97pt>
+File: ./lib/dc_component_removal/figures/S4EXAGERATED.pdf Graphic file (type pd
+f)
+<use ./lib/dc_component_removal/figures/S4EXAGERATED.pdf>
+Package pdftex.def Info: ./lib/dc_component_removal/figures/S4EXAGERATED.pdf  u
+sed on input line 39.
+(pdftex.def)             Requested size: 132.79747pt x 208.90689pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (lib/orthonormalization/orthonormalization.tex [252
+
+] [253 <./lib/dc_component_removal/figures/S4EXAGERATED.pdf>]
+\blx@maxsegment@17=\count446
+\blx@sectionciteorder@17=\count447
+Package biblatex Info: Reference section=17 on input line 5.
+Package biblatex Info: Setting label 'refsection:17' on input line 5.
+
+Overfull \hbox (7.33366pt too wide) in paragraph at lines 8--13
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+\T1/ppl/m/n/10.95 Orthonormalization(initializer_list$\OML/cmm/m/it/10.95 <$\T1
+/ppl/m/n/10.95 Signal *$\OML/cmm/m/it/10.95 >$ \T1/ppl/m/n/10.95 &In-put-Sig, i
+nitializer_list$\OML/cmm/m/it/10.95 <$\T1/ppl/m/n/10.95 Signal *$\OML/cmm/m/it/
+10.95 >$
+ []
+
+
+LaTeX Warning: Citation 'arfken99' on page 254 undefined on input line 31.
+
+<./lib/orthonormalization/figures/diagramDSP_GS.pdf, id=3971, 534.91182pt x 105
+.27519pt>
+File: ./lib/orthonormalization/figures/diagramDSP_GS.pdf Graphic file (type pdf
+)
+<use ./lib/orthonormalization/figures/diagramDSP_GS.pdf>
+Package pdftex.def Info: ./lib/orthonormalization/figures/diagramDSP_GS.pdf  us
+ed on input line 35.
+(pdftex.def)             Requested size: 442.65375pt x 87.11813pt.
+
+Underfull \hbox (badness 1769) in paragraph at lines 36--36
+[]\T1/ppl/m/n/10.95 Figure 2.64: |Block di-a-gram rep-re-sen-ta-tion of the Gra
+m-Schmidt or-thonor-mal-iza-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--41
+\T1/ppl/m/n/10.95 This block
+ []
+
+[254
+
+ <./lib/orthonormalization/figures/diagramDSP_GS.pdf>] [255]
+
+LaTeX Warning: Empty bibliography on input line 80.
+
+Package biblatex Info: Reference section=0 on input line 81.
+))
+No file main_netxpto.gls.
+No file main_netxpto.acr.
+[256
+
+
+\@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsl
+ine {subsection}{Bibliography}{256}{section*.902}\protected@file@percent }
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
+ (main_netxpto.aux (chapter/case_studies.aux) (chapter/library.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 71.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 71.
+Package rerunfilecheck Info: File `main_netxpto.out' has not changed.
+(rerunfilecheck)             Checksum: D207C165A53F966CAE24E317B89C4CB0;7302.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main_netxpto
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'main_netxpto.run.xml'.
+\openout1 = `main_netxpto.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 49423 strings out of 492946
+ 1092770 string characters out of 3135533
+ 1718506 words of memory out of 3000000
+ 50321 multiletter control sequences out of 15000+200000
+ 41446 words of font info for 98 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 66i,15n,102p,2010b,2590s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
+/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr
+i8a.pfb>
+Output written on main_netxpto.pdf (257 pages, 5343740 bytes).
+PDF statistics:
+ 4423 PDF objects out of 5155 (max. 8388607)
+ 1601 named destinations out of 1728 (max. 500000)
+ 1400 words of extra memory for PDF output out of 10000 (max. 10000000)
+

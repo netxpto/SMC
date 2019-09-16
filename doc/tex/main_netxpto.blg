@@ -1,0 +1,230 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[1] Config.pm:307> INFO - Logfile is 'main_netxpto.blg'
+[53] biber-MSWIN64:315> INFO - === 
+[82] Biber.pm:371> INFO - Reading 'main_netxpto.bcf'
+[216] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[216] Biber.pm:889> INFO - Found 3 citekeys in bib section 1
+[216] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[216] Biber.pm:889> INFO - Found 1 citekeys in bib section 2
+[216] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[217] Biber.pm:889> INFO - Found 1 citekeys in bib section 3
+[217] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[217] Biber.pm:889> INFO - Found 1 citekeys in bib section 4
+[217] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[217] Biber.pm:889> INFO - Found 1 citekeys in bib section 5
+[217] Biber.pm:889> INFO - Found 1 citekeys in bib section 0
+[217] Biber.pm:889> INFO - Found 1 citekeys in bib section 6
+[217] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[218] Biber.pm:889> INFO - Found 1 citekeys in bib section 7
+[218] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[218] Biber.pm:889> INFO - Found 3 citekeys in bib section 8
+[218] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[218] Biber.pm:889> INFO - Found 7 citekeys in bib section 9
+[218] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[218] Biber.pm:889> INFO - Found 3 citekeys in bib section 10
+[218] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[219] Biber.pm:889> INFO - Found 7 citekeys in bib section 11
+[219] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[219] Biber.pm:889> INFO - Found 1 citekeys in bib section 12
+[219] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[219] Biber.pm:889> INFO - Found 2 citekeys in bib section 13
+[219] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[219] Biber.pm:889> INFO - Found 2 citekeys in bib section 14
+[219] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[219] Biber.pm:889> INFO - Found 0 citekeys in bib section 15
+[219] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[220] Biber.pm:889> INFO - Found 0 citekeys in bib section 16
+[220] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[220] Biber.pm:889> INFO - Found 1 citekeys in bib section 17
+[220] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[345] Biber.pm:4093> INFO - Processing section 0
+[358] Biber.pm:4254> INFO - Looking for bibtex format file './chapter/simulator_structure/simulator_structure.bib' for section 0
+[361] bibtex.pm:1523> INFO - LaTeX decoding ...
+[371] bibtex.pm:1340> INFO - Found BibTeX data source './chapter/simulator_structure/simulator_structure.bib'
+[379] Biber.pm:4254> INFO - Looking for bibtex format file './sdf/secure_multiparty_computation/secure_multiparty_computation.bib' for section 0
+[384] bibtex.pm:1523> INFO - LaTeX decoding ...
+[389] bibtex.pm:1340> INFO - Found BibTeX data source './sdf/secure_multiparty_computation/secure_multiparty_computation.bib'
+[390] Biber.pm:4254> INFO - Looking for bibtex format file './lib/snr_photoelectron_generator/snr_photoelectron_generator.bib' for section 0
+[393] bibtex.pm:1523> INFO - LaTeX decoding ...
+[398] bibtex.pm:1340> INFO - Found BibTeX data source './lib/snr_photoelectron_generator/snr_photoelectron_generator.bib'
+[399] Biber.pm:4254> INFO - Looking for bibtex format file './lib/bit_error_rate/bit_error_rate.bib' for section 0
+[402] bibtex.pm:1523> INFO - LaTeX decoding ...
+[406] bibtex.pm:1340> INFO - Found BibTeX data source './lib/bit_error_rate/bit_error_rate.bib'
+[408] Biber.pm:4254> INFO - Looking for bibtex format file './lib/mutual_information_estimator/mutual_information_estimator.bib' for section 0
+[410] bibtex.pm:1523> INFO - LaTeX decoding ...
+[412] bibtex.pm:1340> INFO - Found BibTeX data source './lib/mutual_information_estimator/mutual_information_estimator.bib'
+[414] Utils.pm:193> WARN - I didn't find a database entry for 'probabilitySheldon' (section 0)
+[421] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[421] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[421] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[421] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[422] Biber.pm:4093> INFO - Processing section 1
+[422] Biber.pm:4254> INFO - Looking for bibtex format file './chapter/simulator_structure/simulator_structure.bib' for section 1
+[423] Biber.pm:4254> INFO - Looking for bibtex format file './sdf/secure_multiparty_computation/secure_multiparty_computation.bib' for section 1
+[445] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[445] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[445] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[445] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[448] Biber.pm:4093> INFO - Processing section 2
+[448] Biber.pm:4254> INFO - Looking for bibtex format file './chapter/simulator_structure/simulator_structure.bib' for section 2
+[450] Biber.pm:4254> INFO - Looking for bibtex format file './sdf/secure_multiparty_computation/secure_multiparty_computation.bib' for section 2
+[452] Biber.pm:4254> INFO - Looking for bibtex format file './lib/snr_photoelectron_generator/snr_photoelectron_generator.bib' for section 2
+[453] Biber.pm:4254> INFO - Looking for bibtex format file './lib/bit_error_rate/bit_error_rate.bib' for section 2
+[470] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[471] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[471] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[471] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[472] Biber.pm:4093> INFO - Processing section 3
+[472] Biber.pm:4254> INFO - Looking for bibtex format file './chapter/simulator_structure/simulator_structure.bib' for section 3
+[474] Biber.pm:4254> INFO - Looking for bibtex format file './sdf/secure_multiparty_computation/secure_multiparty_computation.bib' for section 3
+[475] Biber.pm:4254> INFO - Looking for bibtex format file './lib/snr_photoelectron_generator/snr_photoelectron_generator.bib' for section 3
+[477] Biber.pm:4254> INFO - Looking for bibtex format file './lib/bit_error_rate/bit_error_rate.bib' for section 3
+[478] Biber.pm:4254> INFO - Looking for bibtex format file './lib/mutual_information_estimator/mutual_information_estimator.bib' for section 3
+[480] Utils.pm:193> WARN - I didn't find a database entry for 'NPTEL' (section 3)
+[487] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[487] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[487] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[487] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[487] Biber.pm:4093> INFO - Processing section 4
+[487] Biber.pm:4254> INFO - Looking for bibtex format file './chapter/simulator_structure/simulator_structure.bib' for section 4
+[489] Biber.pm:4254> INFO - Looking for bibtex format file './sdf/secure_multiparty_computation/secure_multiparty_computation.bib' for section 4
+[490] Biber.pm:4254> INFO - Looking for bibtex format file './lib/snr_photoelectron_generator/snr_photoelectron_generator.bib' for section 4
+[492] Biber.pm:4254> INFO - Looking for bibtex format file './lib/bit_error_rate/bit_error_rate.bib' for section 4
+[494] Biber.pm:4254> INFO - Looking for bibtex format file './lib/mutual_information_estimator/mutual_information_estimator.bib' for section 4
+[495] Utils.pm:193> WARN - I didn't find a database entry for 'jeruchim06' (section 4)
+[505] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[505] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[505] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[505] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[506] Biber.pm:4093> INFO - Processing section 5
+[506] Biber.pm:4254> INFO - Looking for bibtex format file './chapter/simulator_structure/simulator_structure.bib' for section 5
+[507] Biber.pm:4254> INFO - Looking for bibtex format file './sdf/secure_multiparty_computation/secure_multiparty_computation.bib' for section 5
+[509] Biber.pm:4254> INFO - Looking for bibtex format file './lib/snr_photoelectron_generator/snr_photoelectron_generator.bib' for section 5
+[511] Biber.pm:4254> INFO - Looking for bibtex format file './lib/bit_error_rate/bit_error_rate.bib' for section 5
+[512] Biber.pm:4254> INFO - Looking for bibtex format file './lib/mutual_information_estimator/mutual_information_estimator.bib' for section 5
+[525] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[525] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[525] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[525] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[526] Biber.pm:4093> INFO - Processing section 6
+[526] Biber.pm:4254> INFO - Looking for bibtex format file './chapter/simulator_structure/simulator_structure.bib' for section 6
+[528] Biber.pm:4254> INFO - Looking for bibtex format file './sdf/secure_multiparty_computation/secure_multiparty_computation.bib' for section 6
+[529] Biber.pm:4254> INFO - Looking for bibtex format file './lib/snr_photoelectron_generator/snr_photoelectron_generator.bib' for section 6
+[531] Biber.pm:4254> INFO - Looking for bibtex format file './lib/bit_error_rate/bit_error_rate.bib' for section 6
+[532] Biber.pm:4254> INFO - Looking for bibtex format file './lib/mutual_information_estimator/mutual_information_estimator.bib' for section 6
+[631] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[632] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[632] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[632] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[634] Biber.pm:4093> INFO - Processing section 7
+[635] Biber.pm:4254> INFO - Looking for bibtex format file './chapter/simulator_structure/simulator_structure.bib' for section 7
+[637] Biber.pm:4254> INFO - Looking for bibtex format file './sdf/secure_multiparty_computation/secure_multiparty_computation.bib' for section 7
+[639] Biber.pm:4254> INFO - Looking for bibtex format file './lib/snr_photoelectron_generator/snr_photoelectron_generator.bib' for section 7
+[653] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[653] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[653] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[653] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[654] Biber.pm:4093> INFO - Processing section 8
+[655] Biber.pm:4254> INFO - Looking for bibtex format file './chapter/simulator_structure/simulator_structure.bib' for section 8
+[656] Biber.pm:4254> INFO - Looking for bibtex format file './sdf/secure_multiparty_computation/secure_multiparty_computation.bib' for section 8
+[658] Biber.pm:4254> INFO - Looking for bibtex format file './lib/snr_photoelectron_generator/snr_photoelectron_generator.bib' for section 8
+[660] Biber.pm:4254> INFO - Looking for bibtex format file './lib/bit_error_rate/bit_error_rate.bib' for section 8
+[662] Biber.pm:4254> INFO - Looking for bibtex format file './lib/mutual_information_estimator/mutual_information_estimator.bib' for section 8
+[663] Utils.pm:193> WARN - I didn't find a database entry for 'jeruchim06' (section 8)
+[663] Utils.pm:193> WARN - I didn't find a database entry for 'nsapplication255' (section 8)
+[663] Utils.pm:193> WARN - I didn't find a database entry for 'weisstein18csd' (section 8)
+[671] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[671] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[671] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[671] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[672] Biber.pm:4093> INFO - Processing section 9
+[672] Biber.pm:4254> INFO - Looking for bibtex format file './chapter/simulator_structure/simulator_structure.bib' for section 9
+[674] Biber.pm:4254> INFO - Looking for bibtex format file './sdf/secure_multiparty_computation/secure_multiparty_computation.bib' for section 9
+[675] Biber.pm:4254> INFO - Looking for bibtex format file './lib/snr_photoelectron_generator/snr_photoelectron_generator.bib' for section 9
+[677] Biber.pm:4254> INFO - Looking for bibtex format file './lib/bit_error_rate/bit_error_rate.bib' for section 9
+[679] Biber.pm:4254> INFO - Looking for bibtex format file './lib/mutual_information_estimator/mutual_information_estimator.bib' for section 9
+[680] Utils.pm:193> WARN - I didn't find a database entry for 'harris12' (section 9)
+[680] Utils.pm:193> WARN - I didn't find a database entry for 'xiao10' (section 9)
+[681] Utils.pm:193> WARN - I didn't find a database entry for 'kashefi12' (section 9)
+[681] Utils.pm:193> WARN - I didn't find a database entry for 'matzner93' (section 9)
+[681] Utils.pm:193> WARN - I didn't find a database entry for 'ren05' (section 9)
+[681] Utils.pm:193> WARN - I didn't find a database entry for 'john2007digital' (section 9)
+[681] Utils.pm:193> WARN - I didn't find a database entry for 'tranter2004principles' (section 9)
+[690] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[690] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[690] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[690] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[691] Biber.pm:4093> INFO - Processing section 10
+[691] Biber.pm:4254> INFO - Looking for bibtex format file './chapter/simulator_structure/simulator_structure.bib' for section 10
+[693] Biber.pm:4254> INFO - Looking for bibtex format file './sdf/secure_multiparty_computation/secure_multiparty_computation.bib' for section 10
+[694] Biber.pm:4254> INFO - Looking for bibtex format file './lib/snr_photoelectron_generator/snr_photoelectron_generator.bib' for section 10
+[717] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[718] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[718] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[718] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[721] Biber.pm:4093> INFO - Processing section 11
+[721] Biber.pm:4254> INFO - Looking for bibtex format file './chapter/simulator_structure/simulator_structure.bib' for section 11
+[723] Biber.pm:4254> INFO - Looking for bibtex format file './sdf/secure_multiparty_computation/secure_multiparty_computation.bib' for section 11
+[724] Biber.pm:4254> INFO - Looking for bibtex format file './lib/snr_photoelectron_generator/snr_photoelectron_generator.bib' for section 11
+[726] Biber.pm:4254> INFO - Looking for bibtex format file './lib/bit_error_rate/bit_error_rate.bib' for section 11
+[728] Biber.pm:4254> INFO - Looking for bibtex format file './lib/mutual_information_estimator/mutual_information_estimator.bib' for section 11
+[729] Utils.pm:193> WARN - I didn't find a database entry for 'harris12' (section 11)
+[729] Utils.pm:193> WARN - I didn't find a database entry for 'xiao10' (section 11)
+[729] Utils.pm:193> WARN - I didn't find a database entry for 'kashefi12' (section 11)
+[729] Utils.pm:193> WARN - I didn't find a database entry for 'matzner93' (section 11)
+[729] Utils.pm:193> WARN - I didn't find a database entry for 'ren05' (section 11)
+[730] Utils.pm:193> WARN - I didn't find a database entry for 'john2007digital' (section 11)
+[730] Utils.pm:193> WARN - I didn't find a database entry for 'tranter2004principles' (section 11)
+[739] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[739] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[739] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[739] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[739] Biber.pm:4093> INFO - Processing section 12
+[739] Biber.pm:4254> INFO - Looking for bibtex format file './chapter/simulator_structure/simulator_structure.bib' for section 12
+[741] Biber.pm:4254> INFO - Looking for bibtex format file './sdf/secure_multiparty_computation/secure_multiparty_computation.bib' for section 12
+[743] Biber.pm:4254> INFO - Looking for bibtex format file './lib/snr_photoelectron_generator/snr_photoelectron_generator.bib' for section 12
+[744] Biber.pm:4254> INFO - Looking for bibtex format file './lib/bit_error_rate/bit_error_rate.bib' for section 12
+[746] Biber.pm:4254> INFO - Looking for bibtex format file './lib/mutual_information_estimator/mutual_information_estimator.bib' for section 12
+[747] Utils.pm:193> WARN - I didn't find a database entry for 'Czegledi16' (section 12)
+[754] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[755] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[755] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[755] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[755] Biber.pm:4093> INFO - Processing section 13
+[755] Biber.pm:4254> INFO - Looking for bibtex format file './chapter/simulator_structure/simulator_structure.bib' for section 13
+[757] Biber.pm:4254> INFO - Looking for bibtex format file './sdf/secure_multiparty_computation/secure_multiparty_computation.bib' for section 13
+[758] Biber.pm:4254> INFO - Looking for bibtex format file './lib/snr_photoelectron_generator/snr_photoelectron_generator.bib' for section 13
+[760] Biber.pm:4254> INFO - Looking for bibtex format file './lib/bit_error_rate/bit_error_rate.bib' for section 13
+[761] Biber.pm:4254> INFO - Looking for bibtex format file './lib/mutual_information_estimator/mutual_information_estimator.bib' for section 13
+[763] Utils.pm:193> WARN - I didn't find a database entry for 'soh15' (section 13)
+[763] Utils.pm:193> WARN - I didn't find a database entry for 'qi15' (section 13)
+[769] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[769] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[769] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[769] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[769] Biber.pm:4093> INFO - Processing section 14
+[770] Biber.pm:4254> INFO - Looking for bibtex format file './chapter/simulator_structure/simulator_structure.bib' for section 14
+[789] Biber.pm:4254> INFO - Looking for bibtex format file './sdf/secure_multiparty_computation/secure_multiparty_computation.bib' for section 14
+[790] Biber.pm:4254> INFO - Looking for bibtex format file './lib/snr_photoelectron_generator/snr_photoelectron_generator.bib' for section 14
+[792] Biber.pm:4254> INFO - Looking for bibtex format file './lib/bit_error_rate/bit_error_rate.bib' for section 14
+[794] Biber.pm:4254> INFO - Looking for bibtex format file './lib/mutual_information_estimator/mutual_information_estimator.bib' for section 14
+[795] Utils.pm:193> WARN - I didn't find a database entry for 'zhou11' (section 14)
+[795] Utils.pm:193> WARN - I didn't find a database entry for 'selmi09' (section 14)
+[801] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[801] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[801] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[801] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[802] Biber.pm:4093> INFO - Processing section 17
+[802] Biber.pm:4254> INFO - Looking for bibtex format file './chapter/simulator_structure/simulator_structure.bib' for section 17
+[804] Biber.pm:4254> INFO - Looking for bibtex format file './sdf/secure_multiparty_computation/secure_multiparty_computation.bib' for section 17
+[805] Biber.pm:4254> INFO - Looking for bibtex format file './lib/snr_photoelectron_generator/snr_photoelectron_generator.bib' for section 17
+[807] Biber.pm:4254> INFO - Looking for bibtex format file './lib/bit_error_rate/bit_error_rate.bib' for section 17
+[808] Biber.pm:4254> INFO - Looking for bibtex format file './lib/mutual_information_estimator/mutual_information_estimator.bib' for section 17
+[810] Utils.pm:193> WARN - I didn't find a database entry for 'arfken99' (section 17)
+[815] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[815] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[816] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[816] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[816] bbl.pm:636> INFO - Writing 'main_netxpto.bbl' with encoding 'ansinew'
+[821] bbl.pm:739> INFO - Output to main_netxpto.bbl
+[826] Biber.pm:110> INFO - WARNINGS: 26

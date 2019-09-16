@@ -1,0 +1,363 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \datalist[entry]{none/global//global/global}
+    \entry{Naumann16}{article}{}
+      \name{author}{1}{}{%
+        {{hash=04fab3b6d9775399c3561572ed7c3c45}{%
+           family={Naumann},
+           familyi={N\bibinitperiod},
+           given={Frederic},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{04fab3b6d9775399c3561572ed7c3c45}
+      \strng{fullhash}{04fab3b6d9775399c3561572ed7c3c45}
+      \strng{bibnamehash}{04fab3b6d9775399c3561572ed7c3c45}
+      \strng{authorbibnamehash}{04fab3b6d9775399c3561572ed7c3c45}
+      \strng{authornamehash}{04fab3b6d9775399c3561572ed7c3c45}
+      \strng{authorfullhash}{04fab3b6d9775399c3561572ed7c3c45}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Network}
+      \field{title}{Garbled Circuits}
+      \field{volume}{71}
+      \field{year}{2016}
+    \endentry
+    \entry{Yakoubov}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7a3b019f1246e92b2eb85bd3b14c69b6}{%
+           family={Yakoubov},
+           familyi={Y\bibinitperiod},
+           given={Sophia},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a3b019f1246e92b2eb85bd3b14c69b6}
+      \strng{fullhash}{7a3b019f1246e92b2eb85bd3b14c69b6}
+      \strng{bibnamehash}{7a3b019f1246e92b2eb85bd3b14c69b6}
+      \strng{authorbibnamehash}{7a3b019f1246e92b2eb85bd3b14c69b6}
+      \strng{authornamehash}{7a3b019f1246e92b2eb85bd3b14c69b6}
+      \strng{authorfullhash}{7a3b019f1246e92b2eb85bd3b14c69b6}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Gentle Introduction to Yaos Garbled Circuits}
+      \field{year}{2017}
+    \endentry
+    \entry{Songhori}{article}{}
+      \name{author}{5}{}{%
+        {{hash=a7fe70032d603b93b8ae4dbb88799927}{%
+           family={Songhori},
+           familyi={S\bibinitperiod},
+           given={Ebrahim\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=59546a6af5d3fc192dfbc1d7459dff69}{%
+           family={Hussain},
+           familyi={H\bibinitperiod},
+           given={Siam\bibnamedelima U.},
+           giveni={S\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{hash=1ef0c377dd3d4449f949ff3fedd1a7f6}{%
+           family={Sadeghi},
+           familyi={S\bibinitperiod},
+           given={Ahmad-Reza},
+           giveni={A\bibinithyphendelim R\bibinitperiod}}}%
+        {{hash=5d62da517b335078f08436fbab3a5f69}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d1642679ae78814302ce585a8ca745a8}{%
+           family={Koushanfar},
+           familyi={K\bibinitperiod},
+           given={Farinaz},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2ba9948989cde399eed5cee1061a5b5}
+      \strng{fullhash}{ec0ad7e6ce0f1098714fd394577e0eb1}
+      \strng{bibnamehash}{a2ba9948989cde399eed5cee1061a5b5}
+      \strng{authorbibnamehash}{a2ba9948989cde399eed5cee1061a5b5}
+      \strng{authornamehash}{a2ba9948989cde399eed5cee1061a5b5}
+      \strng{authorfullhash}{ec0ad7e6ce0f1098714fd394577e0eb1}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{TinyGarble: Highly Compressed and Scalable Sequential Garbled Circuits}
+      \field{year}{2015}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{10}
+  \datalist[entry]{none/global//global/global}
+    \entry{saleh1991}{book}{}
+      \name{author}{2}{}{%
+        {{hash=7c2dae9727ecdd93b6af1fe9edc69977}{%
+           family={Saleh},
+           familyi={S\bibinitperiod},
+           given={B.\bibnamedelimi E.},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=02d78f6fbf2849d98f369d19149a3938}{%
+           family={Teich},
+           familyi={T\bibinitperiod},
+           given={M.\bibnamedelimi C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York (NY)}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{216b21d13ac5af314899eb071e6f618e}
+      \strng{fullhash}{216b21d13ac5af314899eb071e6f618e}
+      \strng{bibnamehash}{216b21d13ac5af314899eb071e6f618e}
+      \strng{authorbibnamehash}{216b21d13ac5af314899eb071e6f618e}
+      \strng{authornamehash}{216b21d13ac5af314899eb071e6f618e}
+      \strng{authorfullhash}{216b21d13ac5af314899eb071e6f618e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Wiley series in pure and applied optics}
+      \field{title}{Fundamentals of photonics}
+      \field{year}{1991}
+    \endentry
+    \entry{smith1997}{book}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=d031505b66ec9558d5ff51815467bab1}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi W.},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {California Technical Pub. San Diego}%
+      }
+      \strng{namehash}{1e7f4ec30f67ad9699079c95abbb22da}
+      \strng{fullhash}{1e7f4ec30f67ad9699079c95abbb22da}
+      \strng{bibnamehash}{1e7f4ec30f67ad9699079c95abbb22da}
+      \strng{authorbibnamehash}{1e7f4ec30f67ad9699079c95abbb22da}
+      \strng{authornamehash}{1e7f4ec30f67ad9699079c95abbb22da}
+      \strng{authorfullhash}{1e7f4ec30f67ad9699079c95abbb22da}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The scientist and engineer's guide to digital signal processing}
+      \field{year}{1997}
+    \endentry
+    \entry{george2011}{article}{}
+      \name{author}{2}{}{%
+        {{hash=eda8043f6d32168553125f1c6303ef27}{%
+           family={Florence},
+           familyi={F\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a2bfec6a93fdc6165145cc1c65911d66}{%
+           family={Golam},
+           familyi={G\bibinitperiod},
+           given={K.\bibnamedelimi B.},
+           giveni={K\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Science Publications}%
+      }
+      \strng{namehash}{72476df3352b2a3a16f75bac77156d99}
+      \strng{fullhash}{72476df3352b2a3a16f75bac77156d99}
+      \strng{bibnamehash}{72476df3352b2a3a16f75bac77156d99}
+      \strng{authorbibnamehash}{72476df3352b2a3a16f75bac77156d99}
+      \strng{authornamehash}{72476df3352b2a3a16f75bac77156d99}
+      \strng{authorfullhash}{72476df3352b2a3a16f75bac77156d99}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Biostatistics}
+      \field{number}{2}
+      \field{title}{Confidence intervals for signal to noise ratio of a Poisson distribution}
+      \field{volume}{2}
+      \field{year}{2011}
+      \field{pages}{44}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{2}
+  \datalist[entry]{none/global//global/global}
+    \entry{Almeida16}{article}{}
+      \name{author}{6}{}{%
+        {{hash=6a284ce152abc6ab54972bfcdc2c83e0}{%
+           family={Almeida},
+           familyi={A\bibinitperiod},
+           given={{Á}lvaro\bibnamedelima J},
+           giveni={Á\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=84393ea15a8681218af78b0b445df16e}{%
+           family={Muga},
+           familyi={M\bibinitperiod},
+           given={Nelson\bibnamedelima J},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=4c4c891dfda0ab530bb5c297123c5f81}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Nuno\bibnamedelima A},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2a82c969732aa6a8f5d564561fb5edde}{%
+           family={Prata},
+           familyi={P\bibinitperiod},
+           given={Jo{ã}o\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=07571ed8bff1390ab3462561efe5dabe}{%
+           family={Andr{é}},
+           familyi={A\bibinitperiod},
+           given={Paulo\bibnamedelima S},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=bbdf6572ff61161290233fea4402c7b8}{%
+           family={Pinto},
+           familyi={P\bibinitperiod},
+           given={Armando\bibnamedelima N},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{2b636e79283a49a3c07b9f894068435e}
+      \strng{fullhash}{cf45db13b497b2ad9db00ab54e6126e8}
+      \strng{bibnamehash}{2b636e79283a49a3c07b9f894068435e}
+      \strng{authorbibnamehash}{2b636e79283a49a3c07b9f894068435e}
+      \strng{authornamehash}{2b636e79283a49a3c07b9f894068435e}
+      \strng{authorfullhash}{cf45db13b497b2ad9db00ab54e6126e8}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Lightwave Technology}
+      \field{number}{16}
+      \field{title}{Continuous Control of Random Polarization Rotations for Quantum Communications}
+      \field{volume}{34}
+      \field{year}{2016}
+      \field{pages}{3914\bibrangedash 3922}
+      \range{pages}{9}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{5}
+  \datalist[entry]{none/global//global/global}
+    \entry{Wesolowski09}{book}{}
+      \name{author}{1}{}{%
+        {{hash=132bde889cc1ccda3ea7114c9b9d3886}{%
+           family={Wesolowski},
+           familyi={W\bibinitperiod},
+           given={Krzysztof},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{132bde889cc1ccda3ea7114c9b9d3886}
+      \strng{fullhash}{132bde889cc1ccda3ea7114c9b9d3886}
+      \strng{bibnamehash}{132bde889cc1ccda3ea7114c9b9d3886}
+      \strng{authorbibnamehash}{132bde889cc1ccda3ea7114c9b9d3886}
+      \strng{authornamehash}{132bde889cc1ccda3ea7114c9b9d3886}
+      \strng{authorfullhash}{132bde889cc1ccda3ea7114c9b9d3886}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to digital communication systems}
+      \field{year}{2009}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{6}
+  \datalist[entry]{none/global//global/global}
+    \entry{Wesolowski09}{book}{}
+      \name{author}{1}{}{%
+        {{hash=132bde889cc1ccda3ea7114c9b9d3886}{%
+           family={Wesolowski},
+           familyi={W\bibinitperiod},
+           given={Krzysztof},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{132bde889cc1ccda3ea7114c9b9d3886}
+      \strng{fullhash}{132bde889cc1ccda3ea7114c9b9d3886}
+      \strng{bibnamehash}{132bde889cc1ccda3ea7114c9b9d3886}
+      \strng{authorbibnamehash}{132bde889cc1ccda3ea7114c9b9d3886}
+      \strng{authornamehash}{132bde889cc1ccda3ea7114c9b9d3886}
+      \strng{authorfullhash}{132bde889cc1ccda3ea7114c9b9d3886}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to digital communication systems}
+      \field{year}{2009}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{7}
+  \datalist[entry]{none/global//global/global}
+    \entry{saleh1991}{book}{}
+      \name{author}{2}{}{%
+        {{hash=7c2dae9727ecdd93b6af1fe9edc69977}{%
+           family={Saleh},
+           familyi={S\bibinitperiod},
+           given={B.\bibnamedelimi E.},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=02d78f6fbf2849d98f369d19149a3938}{%
+           family={Teich},
+           familyi={T\bibinitperiod},
+           given={M.\bibnamedelimi C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York (NY)}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{216b21d13ac5af314899eb071e6f618e}
+      \strng{fullhash}{216b21d13ac5af314899eb071e6f618e}
+      \strng{bibnamehash}{216b21d13ac5af314899eb071e6f618e}
+      \strng{authorbibnamehash}{216b21d13ac5af314899eb071e6f618e}
+      \strng{authornamehash}{216b21d13ac5af314899eb071e6f618e}
+      \strng{authorfullhash}{216b21d13ac5af314899eb071e6f618e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Wiley series in pure and applied optics}
+      \field{title}{Fundamentals of photonics}
+      \field{year}{1991}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
